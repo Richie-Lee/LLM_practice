@@ -7,3 +7,10 @@ Practice Notebooks with code snippets to reuse in actual projects
 - **Indexes**: Document loaders, Text splitters, Vector stores, Retrievers
 - **Chains**: application specific
 - **Agents**: Directing LLM towards specific use-case tools
+
+Document processing:
+- **Splitting** (Chunks) - Map-reduce, Refine, Map-rank
+- **Embedding**: Numerical representation of text
+- **Vector store**: Store set of embedding,
+- **Retrieval**: directing incoming traffic to the most informative chunks (using the Vector store)
+- *Answering question using prompts* 
