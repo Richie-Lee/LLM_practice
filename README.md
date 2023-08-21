@@ -9,7 +9,7 @@ Practice Notebooks with code snippets to reuse in actual projects
 - **Agents**: Directing LLM towards specific use-case tools
 
 Document processing:
-- **Splitting** (Chunks) - Map-reduce, Refine, Map-rank
+- **Splitting** (Chunks) - Map-reduce, Refine, Map-rerank
 - **Embedding**: Numerical representation of text
 - **Vector store**: Store set of embedding,
 - **Retrieval**: directing incoming traffic to the most informative chunks (using the Vector store)
