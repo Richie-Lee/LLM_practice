@@ -1,6 +1,8 @@
 # Project Logbook:
 
 ## Week 34 (21/08 - 27/08)
+- Metadata retention for more effective retrieval (preserved through word)
+- Trial & Error testing various documents to identify common issues/solutions
 
 ---
 ## Week 33  (14/08 - 20/08)
