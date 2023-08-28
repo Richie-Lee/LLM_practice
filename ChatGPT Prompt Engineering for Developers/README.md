@@ -4,7 +4,7 @@
     - Write clear & specific instructions
     - Give model time to "think"
 - **Hallucinations**
-- **Generative Prompt development**
+- **Iterative Prompt development**
 - **Capabilities:** Summarising, Inferring, Transforming, Expanding
 - **Custom Chatbot:** Systems/Assistant/User
 
