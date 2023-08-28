@@ -1,6 +1,15 @@
 # LLM_practice
 Practice Notebooks with code snippets to reuse in actual projects
 
+## Prompt Engineering
+- **Principles:**
+    - Write clear & specific instructions
+    - Give model time to "think"
+- **Hallucinations**
+- **Iterative Prompt development**
+- **Capabilities:** Summarising, Inferring, Transforming, Expanding
+- **Custom Chatbot:** Systems/Assistant/User
+
 ## LangChain: open-source 
 - **Prompts**: templates, parsers, selectors
 - **Models**: LLM integrations, Chat models, Text embedding models
