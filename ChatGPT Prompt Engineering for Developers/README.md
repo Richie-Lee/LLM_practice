@@ -8,4 +8,4 @@
 - **Capabilities:** Summarising, Inferring, Transforming, Expanding
 - **Custom Chatbot:** Systems/Assistant/User
 
-Tutorial link: [](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/8/chatbot)
+Tutorial link: https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/8/chatbot
