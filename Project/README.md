@@ -1,5 +1,8 @@
 # Project Logbook:
 
+## Week 35 (28/08 - 03/09)
+- ...
+
 ## Week 34 (21/08 - 27/08)
 - **Course 3:** ChatGPT Prompt Engineering for Developers 
 - Metadata retention for more effective retrieval (preserved through word)
