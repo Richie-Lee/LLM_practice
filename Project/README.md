@@ -4,6 +4,7 @@
 - ...
 
 ## Week 34 (21/08 - 27/08)
+Improving Prompt Engineering through Best Practices and Methods of Ingest Large Documents by leveraging Meta-Data structures
 - **Course 3:** ChatGPT Prompt Engineering for Developers 
 - Metadata retention for more effective retrieval (preserved through word)
 - Trial & Error testing various documents to identify common issues/solutions
