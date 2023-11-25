@@ -1,17 +1,17 @@
 import os
 from dotenv import load_dotenv, find_dotenv
-import langchain
+# import langchain
 from langchain.document_loaders import TextLoader, PyPDFLoader
 from langchain.text_splitter import CharacterTextSplitter
 import openai
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
-import chromadb
+# import chromadb
 from datetime import datetime
 
 # Load environment variables
-_ = load_dotenv(find_dotenv("C:/Users/RLee/Desktop/TAX BASE/openai_api_key.env"))
-openai.api_key = os.environ["OPENAI_API_KEY"]
+_ = load_dotenv(find_dotenv("C:/Users/RLee/Desktop/TAX BASE/azure_api_keys.env"))
+openai.api_key = os.environ["AZURE_OPENAI_API_KEY "]
 
 class VectorDatabaseManager:
     """
@@ -68,13 +68,14 @@ class VectorDatabaseManager:
         """
         return Chroma(persist_directory=self.vector_db_directory, embedding_function=embedding_function)
 
-
 class LLMRunner:
     """
     Handles the retrieval from the vector database and operations with the Large Language Model (LLM).
     """
-    def __init__(self, vector_db):
+    def __init__(self, vector_db, azure_api_base, azure_api_key):
         self.vector_db = vector_db
+        os.environ["OPENAI_API_BASE"] = azure_api_base  # Replace with your URL
+        openai.api_key = azure_api_key  # Replace with one of your keys
 
     @staticmethod
     def get_completion(prompt, model="gpt-3.5-turbo"):
