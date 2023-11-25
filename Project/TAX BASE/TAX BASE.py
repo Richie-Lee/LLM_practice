@@ -1,189 +1,180 @@
-# General
 import os
 from dotenv import load_dotenv, find_dotenv
-
-# Import
-import langchain #!pip install --upgrade langchain
-from langchain.document_loaders import TextLoader
-from langchain.document_loaders import PyPDFLoader
-
-# Splitting
+import langchain
+from langchain.document_loaders import TextLoader, PyPDFLoader
 from langchain.text_splitter import CharacterTextSplitter
-
-# Embedding
 import openai
 from langchain.embeddings.openai import OpenAIEmbeddings
-
-# Vector db
 from langchain.vectorstores import Chroma
 import chromadb
-
-# For tracking runtime
 from datetime import datetime
 
-# Specify directories
-import_directory_pdf = ""
-import_directory_txt = "C:/Users/RLee/Desktop/TAX BASE/bdo_scrape_full.txt"
-
-# Get openai_api_key using .env file
-_ = load_dotenv(find_dotenv("C:/Users/RLee/Desktop/TAX BASE/openai_api_key.env")) # .env filepath
+# Load environment variables
+_ = load_dotenv(find_dotenv("C:/Users/RLee/Desktop/TAX BASE/openai_api_key.env"))
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
-
-def import_document(import_directory):
-    # Import data in LangChain format (only txt/pdf supported)
-    if import_directory[-3:] == "txt":
-        loader = TextLoader(import_directory_txt, encoding = "utf-8")
-    elif import_directory[-3:] == "pdf":
-        loader = PyPDFLoader(import_directory_pdf)
-    else:
-        raise Exception("Filetypes other than txt and pdf are not supported")
-    
-    return loader.load()
-
-
-
-def split_document(doc):
-    # split it into chunks on "\n-\n" (scraping method ensures source data formatting)
-    text_splitter = CharacterTextSplitter(
-        chunk_size=500,
-        chunk_overlap=0, 
-        separator = '\n-\n' # Splitting criteria
-    )
-    
-    return text_splitter.split_documents(doc)
-
-
-
-def define_embedding_function():
-    # Create an Embedding function (OpenAI version)
-    return OpenAIEmbeddings()
-   
-
-
-def create_vector_db(vector_db_directory, doc_split, embedding_function):
-    # https://python.langchain.com/docs/integrations/vectorstores/chroma
-    vector_db = Chroma.from_documents(
-        documents = doc_split,
-        embedding = embedding_function,
-        persist_directory = vector_db_directory # chroma-specific keyword
-    )
-    
-    # Save to use later
-    vector_db.persist()
-    
-    return vector_db
-
-def load_vector_db(vector_db_directory, embedding_function):
-    return Chroma(persist_directory = vector_db_directory, embedding_function = embedding_function)
-
-
-
-def retrieval(query, vector_db, n_subset):
-    # Embed question and get the <n_subset> most similar chunk embeddings from vector store
-    vector_db_matches = vector_db.similarity_search(query, n_subset)
-    
-    # Parse the list of document types to a single string (for convenient prompt ingestion)
-    vector_db_matches_str = ""
-    for x in vector_db_matches:
-        vector_db_matches_str = vector_db_matches_str + "\n-\n" + x.page_content
-    
-    return vector_db_matches_str
-
-
-
-def get_completion(prompt, model = "gpt-3.5-turbo"):
-    messages = [{"role": "user", "content": prompt}]
-    response = openai.ChatCompletion.create(
-        model = model,
-        messages = messages,
-        temperature = 0, # this is the degree of randomness of the model's output
-    )
-    return response.choices[0].message["content"]
-
-
-
-def prompt_template(query, vector_db_matches_str):    
-    # Prompt engineering
-    prompt = f""" 
-    Given a list of document summaries, your task is to assess each document strictly for relevance to the provided query. Exclude all documents that are 'likely irrelevant'—those that are only marginally related to the query.
-    
-    Input:
-    
-    Query: <{query}>
-    Document Summaries: <{vector_db_matches_str}>
-    
-    Procedure:
-    
-    1. Essence Extraction: Discern the core essence and essential points of the query.
-    2. Relevance Assessment: Review the titles and descriptions of each document summary. Determine whether the document is likely to be relevant or maybe relevant to the query's key points. Disregard any document that does not appear to closely align with the query's essence.
-    
-    Output:
-    
-    First print the question, and your associated interpretation of the question:
-    
-    - Question: [User input question]
-    - Key Objective of the Query: [Concise summary of the query's key points]
-    
-    Insert a line here, to show a clear break using dashes 
-    
-    Don't include the remaining irrelevant documents in the output.
-    Then, for each document that is determined to be relevant or maybe relevant, present the following details:
-    
-    - Conclusion: [Relevant/Maybe Relevant]
-    - Reasoning: [Justification for the relevance assessment, connecting the document's title and description to the query]
-    - Document Details:
-      - Index: [Document index]
-      - Title: [Title of the document]
-      - Date: [Publication date of the document]
-      - Description: [Overview of the document's main themes and points]
-      - Link: [Direct URL]
+class VectorDatabaseManager:
     """
-    
-    return prompt
+    Manages the vector database's lifecycle including creation, loading, and document processing.
+    """
+    def __init__(self, import_directory, vector_db_directory):
+        self.import_directory = import_directory
+        self.vector_db_directory = vector_db_directory
+
+    def import_document(self):
+        """
+        Imports a document from the specified directory, supports txt and pdf formats.
+        """
+        if self.import_directory.endswith("txt"):
+            loader = TextLoader(self.import_directory, encoding="utf-8")
+        elif self.import_directory.endswith("pdf"):
+            loader = PyPDFLoader(self.import_directory)
+        else:
+            raise Exception("Filetypes other than txt and pdf are not supported")
+        return loader.load()
+
+    def split_document(self, doc):
+        """
+        Splits the imported document into chunks based on a specified separator.
+        """
+        text_splitter = CharacterTextSplitter(
+            chunk_size=500,
+            chunk_overlap=0,
+            separator='\n-\n'
+        )
+        return text_splitter.split_documents(doc)
+
+    def define_embedding_function(self):
+        """
+        Defines and returns the embedding function to be used for the documents.
+        """
+        return OpenAIEmbeddings()
+
+    def create_vector_db(self, doc_split, embedding_function):
+        """
+        Creates and persists a vector database from the split documents using the given embedding function.
+        """
+        vector_db = Chroma.from_documents(
+            documents=doc_split,
+            embedding=embedding_function,
+            persist_directory=self.vector_db_directory
+        )
+        vector_db.persist()
+        return vector_db
+
+    def load_vector_db(self, embedding_function):
+        """
+        Loads an existing vector database using the given embedding function.
+        """
+        return Chroma(persist_directory=self.vector_db_directory, embedding_function=embedding_function)
 
 
+class LLMRunner:
+    """
+    Handles the retrieval from the vector database and operations with the Large Language Model (LLM).
+    """
+    def __init__(self, vector_db):
+        self.vector_db = vector_db
 
-def run_llm(query, vector_db_matches_str, prompt):
-    start_time = datetime.now() 
-    
-    # Get LLM response
-    response = get_completion(prompt)
+    @staticmethod
+    def get_completion(prompt, model="gpt-3.5-turbo"):
+        """
+        Generates a completion for the given prompt using the specified model.
+        """
+        messages = [{"role": "user", "content": prompt}]
+        response = openai.ChatCompletion.create(
+            model=model,
+            messages=messages,
+            temperature=0
+        )
+        return response.choices[0].message["content"]
+
+    def retrieval(self, query, n_subset):
+        """
+        Retrieves the most similar documents from the vector database for a given query.
+        """
+        vector_db_matches = self.vector_db.similarity_search(query, n_subset)
+        vector_db_matches_str = "\n-\n".join(x.page_content for x in vector_db_matches)
+        return vector_db_matches_str
+
+    @staticmethod
+    def prompt_template(query, vector_db_matches_str):
+        prompt = f""" 
+        Given a list of document summaries, your task is to assess each document strictly for relevance to the provided query. Exclude all documents that are 'likely irrelevant'—those that are only marginally related to the query.
         
-    total_runtime = datetime.now() - start_time
+        Input:
+        
+        Query: <{query}>
+        Document Summaries: <{vector_db_matches_str}>
+        
+        Procedure:
+        
+        1. Essence Extraction: Discern the core essence and essential points of the query.
+        2. Relevance Assessment: Review the titles and descriptions of each document summary. Determine whether the document is likely to be relevant or maybe relevant to the query's key points. Disregard any document that does not appear to closely align with the query's essence.
+        
+        Output:
+        
+        First print the question, and your associated interpretation of the question:
+        
+        - Question: [User input question]
+        - Key Objective of the Query: [Concise summary of the query's key points]
+        
+        Insert a line here, to show a clear break using dashes 
+        
+        Don't include the remaining irrelevant documents in the output.
+        Then, for each document that is determined to be relevant or maybe relevant, present the following details:
+        
+        - Conclusion: [Relevant/Maybe Relevant]
+        - Reasoning: [Justification for the relevance assessment, connecting the document's title and description to the query]
+        - Document Details:
+          - Index: [Document index]
+          - Title: [Title of the document]
+          - Date: [Publication date of the document]
+          - Description: [Overview of the document's main themes and points]
+          - Link: [Direct URL]
+        """
+        return prompt
+
+    def run_llm(self, query, n_subset):
+        """
+        Runs the LLM process including retrieval from the vector database, prompt generation, and response retrieval.
+        """
+        vector_db_matches_str = self.retrieval(query, n_subset)
+        prompt = LLMRunner.prompt_template(query, vector_db_matches_str)
+
+        start_time = datetime.now()
+        response = LLMRunner.get_completion(prompt)
+        total_runtime = datetime.now() - start_time
+        hours, remainder = divmod(total_runtime.seconds, 3600)
+        minutes, seconds = divmod(remainder, 60)
+        formatted_runtime = f"{hours:02d}:{minutes:02d}:{seconds:02d}"
+
+        return {"Query": query, "LLM Response": response, "Runtime": formatted_runtime, "Vector_db_matches": vector_db_matches_str}
+
+
+def main(initialise_vector_db, import_directory, vector_db_directory, query):
+    """
+    Main function to orchestrate the creation/loading of the vector database and running
+    """
+    vector_db_manager = VectorDatabaseManager(import_directory, vector_db_directory)
     
-    # Format total runtime
-    hours, remainder = divmod(total_runtime.seconds, 3600)
-    minutes, seconds = divmod(remainder, 60)
-    total_runtime = f"{hours:02d}:{minutes:02d}:{seconds:02d}"
-    
-    # Format return statement
-    return {"Query": query, "LLM Response": response, "Runtime": total_runtime, "Vector_db_matches": vector_db_matches_str}
-
-
-
-
-
-def main(import_directory, vector_db_directory, query):
-    # Create VectorDB from source file
-    if initialise_vector_db == True:
-        doc = import_document(import_directory)
-        doc_split = split_document(doc)
-        embedding_function = define_embedding_function()
-        vector_db = create_vector_db(vector_db_directory, doc_split, embedding_function)
-    
-    # Load existing VectorDB
+    # Get VectorDB, by creating it at directory or loading it from directory
+    if initialise_vector_db:
+        doc = vector_db_manager.import_document()
+        doc_split = vector_db_manager.split_document(doc)
+        embedding_function = vector_db_manager.define_embedding_function()
+        vector_db = vector_db_manager.create_vector_db(doc_split, embedding_function)
     else:
-        embedding_function = define_embedding_function()
-        vector_db = load_vector_db(vector_db_directory, embedding_function)
+        embedding_function = vector_db_manager.define_embedding_function()
+        vector_db = vector_db_manager.load_vector_db(embedding_function)
     
-    # Runnning LLM
+    # Run LLM using VectorDB as information source
+    llm_runner = LLMRunner(vector_db)
     n_subset = 10
-    vector_db_matches_str = retrieval(query, vector_db, n_subset)
-    prompt = prompt_template(query, vector_db_matches_str)
-    result = run_llm(query, vector_db_matches_str, prompt)
+    result = llm_runner.run_llm(query, n_subset)
     
     return result
+
 
 
 
@@ -196,19 +187,4 @@ Can you tell me which jurisdictions have adopted final legislation to implement 
 
 import_directory = "C:/Users/RLee/Desktop/TAX BASE/bdo_scrape_full.txt"
 vector_db_directory = "C:/Users/RLee/Downloads/vectordb"
-result = main(import_directory, vector_db_directory, query)
-
-
-
-
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
+result = main(initialise_vector_db, import_directory, vector_db_directory, query)
