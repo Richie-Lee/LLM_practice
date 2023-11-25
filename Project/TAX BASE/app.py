@@ -21,19 +21,18 @@ from TAX_BASE import LLMRunner, VectorDatabaseManager
 app = Flask(__name__)
 
 # Fetch Azure API credentials from environment variables
-azure_api_base = os.getenv("AZURE_OPENAI_API_BASE") # optional, put default URL (second argument) in here if none are specified 
+azure_api_base = os.getenv("AZURE_OPENAI_API_BASE")
 azure_api_key = os.getenv("AZURE_OPENAI_API_KEY")
 
-# Initialize the VectorDatabaseManager
+# Initialize the VectorDatabaseManager with Azure API key
 import_directory = "C:/Users/RLee/Desktop/TAX BASE/bdo_scrape_full.txt"
 vector_db_directory = "C:/Users/RLee/Downloads/vectordb"
-vector_db_manager = VectorDatabaseManager(import_directory, vector_db_directory)
+vector_db_manager = VectorDatabaseManager(import_directory, vector_db_directory, azure_api_key)
 embedding_function = vector_db_manager.define_embedding_function()
 vector_db = vector_db_manager.load_vector_db(embedding_function)
 
-# Initialise LLM
+# Initialize LLM with Azure API base and key
 llm_runner = LLMRunner(vector_db, azure_api_base, azure_api_key)
-
 
 @app.route("/")
 def home() -> str:
