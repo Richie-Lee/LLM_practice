@@ -9,17 +9,14 @@ from langchain.vectorstores import Chroma
 # import chromadb
 from datetime import datetime
 
-# Load environment variables
-# _ = load_dotenv(find_dotenv("C:/Users/RLee/Desktop/TAX BASE/azure_api_keys.env"))
-# openai.api_key = os.environ["AZURE_OPENAI_API_KEY"]
-
 class VectorDatabaseManager:
     """
     Manages the vector database's lifecycle including creation, loading, and document processing.
     """
-    def __init__(self, import_directory, vector_db_directory):
+    def __init__(self, import_directory, vector_db_directory, api_key):
         self.import_directory = import_directory
         self.vector_db_directory = vector_db_directory
+        self.api_key = api_key
 
     def import_document(self):
         """
@@ -47,8 +44,9 @@ class VectorDatabaseManager:
     def define_embedding_function(self):
         """
         Defines and returns the embedding function to be used for the documents.
+        Passes the Azure API key to OpenAIEmbeddings.
         """
-        return OpenAIEmbeddings()
+        return OpenAIEmbeddings(openai_api_key=self.api_key)
 
     def create_vector_db(self, doc_split, embedding_function):
         """
