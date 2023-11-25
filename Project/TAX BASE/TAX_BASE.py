@@ -1,5 +1,5 @@
 import os
-from dotenv import load_dotenv, find_dotenv
+# from dotenv import load_dotenv, find_dotenv
 # import langchain
 from langchain.document_loaders import TextLoader, PyPDFLoader
 from langchain.text_splitter import CharacterTextSplitter
@@ -10,8 +10,8 @@ from langchain.vectorstores import Chroma
 from datetime import datetime
 
 # Load environment variables
-_ = load_dotenv(find_dotenv("C:/Users/RLee/Desktop/TAX BASE/azure_api_keys.env"))
-openai.api_key = os.environ["AZURE_OPENAI_API_KEY "]
+# _ = load_dotenv(find_dotenv("C:/Users/RLee/Desktop/TAX BASE/azure_api_keys.env"))
+# openai.api_key = os.environ["AZURE_OPENAI_API_KEY"]
 
 class VectorDatabaseManager:
     """
@@ -67,6 +67,8 @@ class VectorDatabaseManager:
         Loads an existing vector database using the given embedding function.
         """
         return Chroma(persist_directory=self.vector_db_directory, embedding_function=embedding_function)
+
+
 
 class LLMRunner:
     """
@@ -151,41 +153,3 @@ class LLMRunner:
         formatted_runtime = f"{hours:02d}:{minutes:02d}:{seconds:02d}"
 
         return {"Query": query, "LLM Response": response, "Runtime": formatted_runtime, "Vector_db_matches": vector_db_matches_str}
-
-
-def main(initialise_vector_db, import_directory, vector_db_directory, query):
-    """
-    Main function to orchestrate the creation/loading of the vector database and running
-    """
-    vector_db_manager = VectorDatabaseManager(import_directory, vector_db_directory)
-    
-    # Get VectorDB, by creating it at directory or loading it from directory
-    if initialise_vector_db:
-        doc = vector_db_manager.import_document()
-        doc_split = vector_db_manager.split_document(doc)
-        embedding_function = vector_db_manager.define_embedding_function()
-        vector_db = vector_db_manager.create_vector_db(doc_split, embedding_function)
-    else:
-        embedding_function = vector_db_manager.define_embedding_function()
-        vector_db = vector_db_manager.load_vector_db(embedding_function)
-    
-    # Run LLM using VectorDB as information source
-    llm_runner = LLMRunner(vector_db)
-    n_subset = 10
-    result = llm_runner.run_llm(query, n_subset)
-    
-    return result
-
-
-
-
-initialise_vector_db = False
-
-query = """
-As a BDO UK tax professional, I'm interested in the developments following the OECD's publication of the Model Globe Rules. 
-Can you tell me which jurisdictions have adopted final legislation to implement Pillar Two and which jurisdictions have published draft legislation for the same?
-"""
-
-import_directory = "C:/Users/RLee/Desktop/TAX BASE/bdo_scrape_full.txt"
-vector_db_directory = "C:/Users/RLee/Downloads/vectordb"
-result = main(initialise_vector_db, import_directory, vector_db_directory, query)
