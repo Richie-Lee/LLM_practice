@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BDO: TAX BASE POC</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>TAX BASE POC</h2>
+        </div>
+        <div class="chat-body" id="chat-body">
+            <div id="chat-body-content"></div>
+            <img src="{{ url_for('static', filename='loading.svg') }}" class="loading-image" id="loading-image">
+        </div>
+        <div class="chat-input">
+            <input type="text" id="user-message" placeholder="Type your message...">
+            <!-- <button id="refresh-button">Refresh</button> -->
+            <button id="send-button">Send</button>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+
+        $(document).ready(function() {
+            $('#loading-image').hide().width('0');
+            $('#send-button').click(function() {
+                var user_message = $('#user-message').val();
+
+                $('#chat-body-content').append('<p class="user-message">' + user_message + '</p>');
+                $('#user-message').val('');
+                $('#loading-image').show().width('100px');
+                $('#chat-body').scrollTop($('#chat-body')[0].scrollHeight);
+                $.post('/get_response', { user_message: user_message }, function(data) {
+                    var bot_response = data.response;
+                    $('#chat-body-content').append('<p class="bot-message">' + bot_response + '</p');
+                    $('#chat-body').scrollTop($('#chat-body')[0].scrollHeight);
+                    $('#loading-image').hide().width('0');
+                });
+            });
+            $('#refresh-button').click(function() {
+                $.post('/refresh', null, function(data) {
+                    $('#chat-body-content').empty();
+                });
+            });
+        });
+        $('#user-message').keypress(function (e) {
+         var key = e.which;
+         if(key == 13) {
+            $('#send-button').click();
+            return false;
+          }
+        });
+    </script>
+</body>
+</html>
