@@ -1,12 +1,9 @@
 import os
-# from dotenv import load_dotenv, find_dotenv
-# import langchain
 from langchain.document_loaders import TextLoader, PyPDFLoader
 from langchain.text_splitter import CharacterTextSplitter
 import openai
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
-# import chromadb
 from datetime import datetime
 
 class VectorDatabaseManager:
