@@ -43,7 +43,8 @@ class VectorDatabaseManager:
         Defines and returns the embedding function to be used for the documents.
         Passes the Azure API key to OpenAIEmbeddings.
         """
-        return OpenAIEmbeddings(openai_api_key=self.api_key)
+        # return OpenAIEmbeddings(openai_api_key = self.api_key)
+        return OpenAIEmbeddings(openai_api_key = self.api_key, engine = "RichieEmbedding")
 
     def create_vector_db(self, doc_split, embedding_function):
         """
@@ -71,8 +72,10 @@ class LLMRunner:
     """
     def __init__(self, vector_db, azure_api_base, azure_api_key):
         self.vector_db = vector_db
-        os.environ["OPENAI_API_BASE"] = azure_api_base  # Replace with your URL
+        openai.api_base = azure_api_base  # Replace with your URL
         openai.api_key = azure_api_key  # Replace with one of your keys
+        openai.api_type = 'azure'
+        openai.api_version = '2023-05-15' # this might change in the future        
 
     @staticmethod
     def get_completion(prompt, model="gpt-3.5-turbo"):
@@ -81,10 +84,12 @@ class LLMRunner:
         """
         messages = [{"role": "user", "content": prompt}]
         response = openai.ChatCompletion.create(
+            engine = "RichieTest",
             model=model,
             messages=messages,
             temperature=0
         )
+
         return response.choices[0].message["content"]
 
     def retrieval(self, query, n_subset):
@@ -137,14 +142,17 @@ class LLMRunner:
         """
         Runs the LLM process including retrieval from the vector database, prompt generation, and response retrieval.
         """
-        vector_db_matches_str = self.retrieval(query, n_subset)
+        vector_db_matches_str = self.retrieval(query, n_subset) # Causing issues
         prompt = LLMRunner.prompt_template(query, vector_db_matches_str)
-
+        
         start_time = datetime.now()
         response = LLMRunner.get_completion(prompt)
         total_runtime = datetime.now() - start_time
         hours, remainder = divmod(total_runtime.seconds, 3600)
         minutes, seconds = divmod(remainder, 60)
         formatted_runtime = f"{hours:02d}:{minutes:02d}:{seconds:02d}"
-
-        return {"Query": query, "LLM Response": response, "Runtime": formatted_runtime, "Vector_db_matches": vector_db_matches_str}
+        
+        # Object created for interpretabililty 
+        results = {"Query": query, "LLM Response": response, "Runtime": formatted_runtime, "Vector_db_matches": vector_db_matches_str}
+        
+        return  results["LLM Response"]
