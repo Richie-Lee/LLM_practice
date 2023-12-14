@@ -1,0 +1,1536 @@
+Index: 0 
+Title: VAT and other indirect taxes changes in 2023 
+Date: 17 November 2023 
+Description: Stay ready for 2023's VAT and indirect tax changes. Expert insights for businesses. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/are-you-ready-for-2023-upcoming-changes-in-vat-and-other-indirect-taxes
+-
+Index: 1 
+Title: Christmas Parties: Tax Issues 
+Date: 13 November 2023 
+Description: Planning a good event is a real talent but there is also opportunity to make them even better through ensuring that the tax angles are not forgotten. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/christmas-parties-tax-issues
+-
+Index: 2 
+Title: VAT exemption for Loan Administration services 
+Date: 08 November 2023 
+Description: The Supreme Court’s ruling in the recent case of Target V HMRC may finally have brought clarity to the VAT treatment of financial intermediary services. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/vat-exemption-for-loan-administration-services
+-
+Index: 3 
+Title: Capital Gains Tax on divorce 
+Date: 03 November 2023 
+Description: Stay updated on changes to Capital Gains Tax on divorce, understanding tax implications and managing financial matters during marital transitions. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/changes-to-capital-gains-tax-on-divorce
+-
+Index: 4 
+Title: Taxing future carbon emissions - UK consultation and EU legislation 
+Date: 03 November 2023 
+Description: Taxing Future Carbon Emissions: UK Consultation and EU Legislation 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/taxing-future-carbon-emissions-uk-consultation-and-eu-legislation
+-
+Index: 5 
+Title: Navigating CESOP – Unlocking EU payment services compliance 
+Date: 16 October 2023 
+Description: Find out about the CESOP (Cross-Border Electronic Services of Payment) EU regulations set to take effect on 1 January 2024. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/navigating-cesop-unlocking-eu-payment-services-compliance
+-
+Index: 6 
+Title: National Minimum Wage – a guide for 2023 
+Date: 12 October 2023 
+Description: Prepare for 2023 with the latest National Minimum Wage regulations and rates to ensure compliance with updated wage requirements. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/national-minimum-wage-a-guide-for-2023
+-
+Index: 7 
+Title: R&D Benchmarking Tool  
+Date: 03 October 2023 
+Description: None 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/r-and-d-tax-relief-benchmarking-tool
+-
+Index: 8 
+Title: VAT recovery on deal costs – selling shares to fund ‘downstream’ taxable activity 
+Date: 29 September 2023 
+Description: How does the recent FTT case of Hotel La Tour open the way for VAT refund claims? 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/vat-recovery-on-deal-costs-selling-shares-to-fund-downstream-taxable-activity
+-
+Index: 9 
+Title: Corporate Criminal Offence Tool  
+Date: 20 September 2023 
+Description: None 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/corporate-criminal-offence-tool
+-
+Index: 10 
+Title: BDO LLP - Our principles when providing tax services  
+Date: 29 August 2023 
+Description: Our goal is to make a positive impact on our clients, our people and our communities and to help people to succeed. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/bdo-llp-our-principles-when-providing-tax-services
+-
+Index: 11 
+Title: Merging R&D tax relief schemes – how would it work 
+Date: 21 July 2023 
+Description: BDO explains the latest proposals for the future of UK R&D tax relief. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/merging-r-d-tax-relief-schemes-how-would-it-work
+-
+Index: 12 
+Title: Research & Development (R&D) tax relief changes – how they work in practice 
+Date: 21 July 2023 
+Description: R&D tax relief can provide valuable financial support if you are a business that is investing in innovation and developing new processes, products or services. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/research-development-r-d-tax-relief-changes-how-they-work-in-practice
+-
+Index: 13 
+Title: EIS, VCT & SEIS – Qualifying companies 
+Date: 17 July 2023 
+Description: Qualify your company for EIS, VCT, or SEIS. Expert guidance and requirements. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/eis-vct-seis-qualifying-companies
+-
+Index: 14 
+Title: Business Asset Disposal Relief 
+Date: 17 July 2023 
+Description: None 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/business-asset-disposal-relief
+-
+Index: 15 
+Title: Making a family loan? Watch out for the tax issues 
+Date: 17 July 2023 
+Description: Explaining the tax pitfalls to avoid and the practical considerations when making a loan to family members. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/making-a-family-loan-watch-out-for-the-tax-issues
+-
+Index: 16 
+Title: Protecting your family’s assets 
+Date: 17 July 2023 
+Description: BDO considers the tax implications for families of a major fall in asset values. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/protecting-your-familys-assets
+-
+Index: 17 
+Title: SME relief for R&D - impact of a Coronavirus Business Interruption Loan 
+Date: 14 July 2023 
+Description: BDO considers the interaction of CBILS borrowing with claims for SME R&D relief. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/sme-relief-for-r-d-impact-of-a-coronavirus-business-interruption-loan
+-
+Index: 18 
+Title: Holiday pay calculations – changes on the way 
+Date: 14 July 2023 
+Description: We explain the latest proposals for post Brexit reform of holiday pay. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/holiday-pay-calculations-changes-on-the-way
+-
+Index: 19 
+Title: OpCo/PropCo structures in practice 
+Date: 13 July 2023 
+Description: The principles, practical implications, problems and pitfalls of Operating Company/Property Company structures. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/opco-propco-structures-in-practice
+-
+Index: 20 
+Title: Adopting IFRS16 – unpicking the tax issues for lessees  
+Date: 13 July 2023 
+Description: BDO explains the new rules in Finance Bill 2018-19 that address issues arising for lessees which apply IFRS/FRS 101 and will, therefore, be obliged to adopt IFRS 16. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/capital-allowances/adopting-ifrs16-%E2%80%93-unpicking-the-tax-issues-for-lessees
+-
+Index: 21 
+Title: Private Residence Relief from Capital Gains Tax 
+Date: 13 July 2023 
+Description: How a Capital Gains Tax (CGT) relief called Private Residence Relief (PRR) applies on the sale of an individual’s home and how it may exempt all or part of the gain which arises. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/private-residence-relief-from-capital-gains-tax
+-
+Index: 22 
+Title: Pensions - retirement and inheritance planning 
+Date: 13 July 2023 
+Description: Plan your defined contribution pensions and inheritance with expert guidance, ensuring tax efficiency and financial security for your future. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/pensions-retirement-and-inheritance-planning
+-
+Index: 23 
+Title: Pensions tax relief – How it works 
+Date: 13 July 2023 
+Description: Discover how UK pensions work for tax purposes. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/pensions-tax-relief-how-it-works
+-
+Index: 24 
+Title: Investors’ relief - how it works 
+Date: 12 July 2023 
+Description: An explanation of the rules and qualifying conditions for investors’ relief. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/investors-relief-oct-2017
+-
+Index: 25 
+Title: Corporate interest restriction - how it works 
+Date: 12 July 2023 
+Description: Explaining the UK’s corporate interest restriction rule. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/corporate-interest-restriction-how-it-works
+-
+Index: 26 
+Title: Corporate tax residence in a post COVID-19 world 
+Date: 12 July 2023 
+Description: Analyzing corporate tax residence in the post-Covid-19 world. Expert perspectives. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/corporate-tax-residence-in-a-post-covid-19-world
+-
+Index: 27 
+Title: Tax relief for losses and loan releases 
+Date: 12 July 2023 
+Description: Learn about tax relief for losses and loan releases, optimizing tax outcomes and managing tax relief claims efficiently with professional guidance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/tax-relief-for-losses-and-loan-releases
+-
+Index: 28 
+Title: Tax on tips and gratuities is changing 
+Date: 11 July 2023 
+Description: Understand changes in tax regulations related to tips and gratuities, ensuring compliance and proper tax treatment for your employees' income. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/tax-on-tips-and-gratuities-is-changing
+-
+Index: 29 
+Title: IR35 – what are your responsibilities? 
+Date: 11 July 2023 
+Description: IR35: Your Responsibilities 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/ir35-what-are-your-responsibilities
+-
+Index: 30 
+Title: Are you structuring your debt in the most tax efficient way? 
+Date: 11 July 2023 
+Description: Make sure your debts are structured to comply with tax regulation. Expert strategies provided. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/are-you-structuring-your-debt-in-the-most-tax-efficient-way
+-
+Index: 31 
+Title: Net settled options - unintended consequences on UK corporate tax relief 
+Date: 11 July 2023 
+Description: BDO explains the practical pitfalls for employers redeeming share options to reward their employees. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/net-settled-options-unintended-consequences-on-uk-corporate-tax-relief
+-
+Index: 32 
+Title: CIR Lessons – CIR Lessons - Public infrastructure rules 
+Date: 10 July 2023 
+Description: We highlight practical problems for property development groups claiming the infrastructure exemption. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/cir-lessons-cir-lessons-public-infrastructure-rules
+-
+Index: 33 
+Title: CIR Lessons – Property development trades 
+Date: 10 July 2023 
+Description: We highlight practical problems for property development groups calculating their UK corporate interest restriction. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/cir-lessons-property-development-trades
+-
+Index: 34 
+Title: CIR Lessons – Calculation complexities and the group ratio 
+Date: 10 July 2023 
+Description: Understand the complexities of corporate interest restriction (CIR) calculation. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/cir-lessons-calculation-complexities-and-the-group-ratio
+-
+Index: 35 
+Title: Employees working from international homes - a new corporate tax risk 
+Date: 10 July 2023 
+Description: Discover the corporate tax risks associated with employees working from international homes. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-international-tax/employees-working-from-international-homes-a-new-corporate-tax-risk
+-
+Index: 36 
+Title: Corporate Criminal Offences: a guide to preparing a defence 
+Date: 10 July 2023 
+Description: Our guide looks at the two offences in detail providing examples of how they might arise and outlines the six key principles of defence as set out in HMRC guidance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/corporate-criminal-offences-preparing-a-defence
+-
+Index: 37 
+Title: BDO Online Tax Returns 
+Date: 10 July 2023 
+Description: None 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/bdo-online-tax-returns
+-
+Index: 38 
+Title: HMRC contractual disclosure facility (COP9) – is it right for you?  
+Date: 10 July 2023 
+Description: Evaluate if HMRC's Contractual Disclosure Facility (COP9) is suitable for your tax dispute situation, seeking resolution through the right channels. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/hmrc-contractual-disclosure-facility-cop9-is-it-right-for-you
+-
+Index: 39 
+Title: Intangible assets: developing a tax strategy 
+Date: 10 July 2023 
+Description: Create a tax strategy for handling intangible assets. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-international-tax/intangible-assets-developing-a-tax-strategy
+-
+Index: 40 
+Title: Enterprise Investment Scheme Guide for companies 
+Date: 07 July 2023 
+Description: Find out how our specialists can help with EIS, advance assurance application, shareholders’ agreements and filing of the EIS1 declaration. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/enterprise-investment-scheme-guide-for-companies
+-
+Index: 41 
+Title: Raising equity finance for growth - Knowledge intensive companies 
+Date: 05 July 2023 
+Description: Raise equity finance for growth in knowledge-intensive companies. Expert strategies. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/raising-equity-finance-for-growth-knowledge-intensive-companies
+-
+Index: 42 
+Title: Enterprise Investment Scheme Guide for investors 
+Date: 05 July 2023 
+Description: Read our Investors' guide to the Enterprise Investment Scheme or contact our specialist team for advice on all aspects of EIS. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/enterprise-investment-scheme-guide-for-investors
+-
+Index: 43 
+Title: QAHCs – one year in, what are the practical considerations? 
+Date: 05 July 2023 
+Description: Explore practical considerations for QAHCs one year after implementation. Expert analysis. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/qahcs-one-year-in-what-are-the-practical-considerations
+-
+Index: 44 
+Title: Interest deductions - Updated guidance on Unallowable Purpose Rule 
+Date: 04 July 2023 
+Description: Stay updated with the latest guidance on unallowable purpose rule for interest deductions. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-international-tax/interest-deductions-updated-guidance-on-unallowable-purpose-rule
+-
+Index: 45 
+Title: The art of the possible & how tax technology can help me 
+Date: 04 July 2023 
+Description: Discover the possibilities of tax technology to aid professionals, with expert insights and practical applications. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-automation-and-innovation/the-art-of-the-possible-how-tax-technology-can-help-me
+-
+Index: 46 
+Title: Reducing Customs Duty costs in challenging times 
+Date: 03 July 2023 
+Description: Find out about straightforward options for managing your export-import costs. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/reducing-customs-duty-costs-in-challenging-times
+-
+Index: 47 
+Title: International aspects of demergers 
+Date: 29 June 2023 
+Description: Demergers are an important and common type of transaction for companies throughout the world. International aspects complicate matters and need very careful consideration. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/international-aspects-of-demergers
+-
+Index: 48 
+Title: IHT for relevant property trusts 
+Date: 28 June 2023 
+Description: Major simplification of trust taxation may have slipped down the Government’s list of tax priorities but there have been a number of recent changes that individuals and trustees need to take into account. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/iht-for-relevant-property-trusts
+-
+Index: 49 
+Title: Third party Christmas gifts to employees 
+Date: 28 June 2023 
+Description: Understand the tax implications of third-party Christmas gifts for your employees, ensuring compliance and promoting a festive and rewarding culture. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/third-party-christmas-gifts-to-employees
+-
+Index: 50 
+Title: Employer Ownership: Employee stock ownership plans and employee ownership trusts 
+Date: 28 June 2023 
+Description: Explore how employer ownership, ESOPs, and EOTs foster a culture of ownership and drive performance in your organization. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/employer-ownership-employee-stock-ownership-plans-and-employee-ownership-trusts
+-
+Index: 51 
+Title: Employee Ownership Trusts: Read our client testimonials 
+Date: 28 June 2023 
+Description: Read testimonials from clients benefiting from employee ownership trusts, empowering their teams and growth. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/employee-ownership-trusts-our-client-testimonials
+-
+Index: 52 
+Title: Off-payroll labour - Fairness in disputes moves a step closer 
+Date: 28 June 2023 
+Description: BDO explains HMRC’s reform proposals for setting off taxes paid in IR35 disputes 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/off-payroll-labour-fairness-in-disputes-moves-a-step-closer
+-
+Index: 53 
+Title: The Apprenticeship Levy – The Facts 
+Date: 28 June 2023 
+Description: Explore the essential details of the Apprenticeship Levy, managing its impact on your business, and utilizing opportunities for employee development. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/the-apprenticeship-levy-the-facts
+-
+Index: 54 
+Title: Back to basics – Section 260 holdover relief 
+Date: 28 June 2023 
+Description: Explore Section 260 Holdover Relief, a tax topic simplified for professionals with expert guidance and practical tips. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/back-to-basics-section-260-holdover-relief
+-
+Index: 55 
+Title: COVID-19 and the war in Ukraine: Impact on UK tax residence 
+Date: 28 June 2023 
+Description: Learn about the tax impact on UK tax residence due to COVID-19 and the war in Ukraine, managing tax matters during uncertain geopolitical events. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/covid-19-and-the-war-in-ukraine-impact-on-uk-tax-residence
+-
+Index: 56 
+Title: Leaving the UK 
+Date: 28 June 2023 
+Description: How individuals can break or end their tax residence in the UK. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/leaving-the-uk
+-
+Index: 57 
+Title: Voluntary disclosures to HMRC: are they worth it?  
+Date: 26 June 2023 
+Description: Assess the value of voluntary disclosures to HMRC, handling tax disputes and compliance issues proactively with expert advice and insights. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/voluntary-disclosures-to-hmrc-are-they-worth-it
+-
+Index: 58 
+Title: On Top of Tax: Events and videos 
+Date: 20 June 2023 
+Description: None 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/on-top-of-tax/on-top-of-tax-events-and-videos
+-
+Index: 59 
+Title: Incentive plans for listed companies 
+Date: 20 June 2023 
+Description: How listed companies can build incentive plans to help their businesses grow 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/incentive-plans-for-listed-companies
+-
+Index: 60 
+Title: Creating a market 
+Date: 19 June 2023 
+Description: BDO explains how to make private company share schemes effective for participants. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/creating-a-market
+-
+Index: 61 
+Title: Share plan compliance reviews 
+Date: 19 June 2023 
+Description: Ensure compliance with share plan regulations by conducting comprehensive reviews, identifying potential issues and optimizing plan effectiveness. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/share-plan-compliance-reviews
+-
+Index: 62 
+Title: Share Valuations 
+Date: 19 June 2023 
+Description: Gain insights into share valuations, ensuring fair and accurate assessments, and implementing effective strategies for employee compensation. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/share-valuations
+-
+Index: 63 
+Title: Accounting for share awards 
+Date: 19 June 2023 
+Description: Our Share plan experts explain the accounting treatment of employee share options and awards (share based payments) 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/accounting-for-share-awards
+-
+Index: 64 
+Title: Employee Ownership Trusts (EOT) 
+Date: 19 June 2023 
+Description: Learn about employee ownership trusts and how they can benefit your workforce and business. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/employee-ownership-trusts-(eot)
+-
+Index: 65 
+Title: Nil or partly paid shares 
+Date: 19 June 2023 
+Description: BDO explains how nil or partly paid share plans work and why they can be very helpful for private companies. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/nil-or-partly-paid-shares
+-
+Index: 66 
+Title: Joint share ownership plans (JSOP) 
+Date: 19 June 2023 
+Description: How to get CGT treatment for the growth in value of employee share awards. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/joint-share-ownership-plans-(jsop)
+-
+Index: 67 
+Title: Incentive Plans for Employee-Owned Companies in the U.S. and the UK 
+Date: 19 June 2023 
+Description: Learn about incentive plans for employee-owned companies in the US and UK, fostering employee engagement and company growth. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/incentive-plans-for-employee-owned-companies-in-the-us-and-uk
+-
+Index: 68 
+Title: Flowering share plan 
+Date: 19 June 2023 
+Description: We explain how companies can create a share plan that ‘flowers’ for the employee when company’s value reaches a chosen threshold. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/flowering-share-plan
+-
+Index: 69 
+Title: Growth share plan 
+Date: 19 June 2023 
+Description: Growth share plan 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/growth-share-plan
+-
+Index: 70 
+Title: Long Term Incentive Plans (LTIPs) and Management Incentive Plans (MIPs) 
+Date: 19 June 2023 
+Description: How LTIPs and MIPs can be as flexible as your business needs. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/ltips-and-mips
+-
+Index: 71 
+Title: Non-tax-advantaged share option plans 
+Date: 19 June 2023 
+Description: Why share options that don’t qualify for tax reliefs can still be useful for incentivising employees. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/non-tax-advantaged-share-option-plans
+-
+Index: 72 
+Title: Share Incentive Plan 
+Date: 19 June 2023 
+Description: Explore the advantages of implementing a share incentive plan, motivating employees and aligning their interests with your company's success. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/share-incentive-plan
+-
+Index: 73 
+Title: Save As You Earn Share Option Plan 
+Date: 19 June 2023 
+Description: Learn about the Save As You Earn (SAYE) share option plan, offering attractive benefits and fostering employee loyalty within your company. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/save-as-you-earn-share-option-plan
+-
+Index: 74 
+Title: Company Share Option Plan (CSOP) 
+Date: 19 June 2023 
+Description: BDO explains how the tax-advantaged Company Share Option Plan (CSOP) can help incentivise your employees. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/company-share-option-plan-(csop)
+-
+Index: 75 
+Title: Incentive plans for unlisted companies 
+Date: 19 June 2023 
+Description: Understand incentive plan options for unlisted companies to motivate employees and drive performance within your organisation. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/incentive-plans-for-unlisted-companies
+-
+Index: 76 
+Title: Research and Development (R&D) Tax Credit Calculators: Are they still fit for purpose?   
+Date: 15 June 2023 
+Description: Evaluate if R&D tax credit calculators remain effective, and discover their suitability for calculating incentives in light of changing requirements and regulations. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/r-d-tax-credit-calculators-are-they-still-fit-for-purpose
+-
+Index: 77 
+Title: Share Plan Reporting  
+Date: 12 June 2023 
+Description: Improve share plan reporting accuracy and transparency, complying with regulations and providing your employees with clear, informative statements. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/share-plan-reporting
+-
+Index: 78 
+Title: Quarterly instalment tax payments for PE backed companies  
+Date: 12 June 2023 
+Description: BDO explains why private equity backed companies will fall within the QIPs regime 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/quarterly-instalment-tax-payments-for-pe-backed-companies
+-
+Index: 79 
+Title: HMRC nudges taxpayers named in the pandora papers 
+Date: 09 June 2023 
+Description: We explain HMRC’s latest action on offshore tax avoidance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/hmrc-nudges-taxpayers-named-in-the-pandora-papers
+-
+Index: 80 
+Title: What is the future of Hydrogen as an energy source? 
+Date: 08 June 2023 
+Description: Gain insights into the future of hydrogen as an energy source, exploring its potential in driving sustainable innovation and its role in the transition to clean energy. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/what-is-the-future-of-hydrogen-as-an-energy-source
+-
+Index: 81 
+Title: COVID testing - now potentially a benefit in kind 
+Date: 01 June 2023 
+Description: COVID-19 testing may be considered a benefit in kind. Stay informed on tax implications for employees and employers. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/covid-testing-now-potentially-a-benefit-in-kind
+-
+Index: 82 
+Title: Five tax issues to address in advance of due diligence 
+Date: 30 May 2023 
+Description: We address essential tax issues before due diligence. Expert advice for smooth processes. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/five-tax-issues-to-address-in-advance-of-due-diligence
+-
+Index: 83 
+Title: PAYE settlement agreements (PSAs) 
+Date: 24 May 2023 
+Description: Explore PAYE settlement agreements to manage tax obligations efficiently and resolve PAYE complexities, ensuring compliance for your business. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/paye-settlement-agreements
+-
+Index: 84 
+Title: New landlord database likely to help HMRC 
+Date: 23 May 2023 
+Description: Learn about the new landlord database aiding HMRC, resolving tax disputes related to landlord activities and rental income with expert assistance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/new-landlord-database-likely-to-help-hmrc
+-
+Index: 85 
+Title: Seed Enterprise Investment Scheme Guide for companies  
+Date: 19 May 2023 
+Description: Guide to the Seed Enterprise Investment Scheme (SEIS) for companies. Expert advice. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/seed-enterprise-investment-scheme-guide-for-companies
+-
+Index: 86 
+Title: Worldwide Disclosure Facility (WDF) – helping to settle offshore matters 
+Date: 18 May 2023 
+Description: Discover how the Worldwide Disclosure Facility aids in settling offshore tax matters, resolving tax disputes and compliance issues for foreign holdings. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/worldwide-disclosure-facility-helping-to-settle-offshore-matters
+-
+Index: 87 
+Title: Business investment relief for non-doms – how it works 
+Date: 16 May 2023 
+Description: Discover how Business Investment Relief works for non-doms, offering tax-efficient investment opportunities and navigating complex tax regulations. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/business-investment-relief-for-non-doms-%E2%80%93-how-it-works
+-
+Index: 88 
+Title: SDLT and granny flats - is the writing on the dividing wall? 
+Date: 15 May 2023 
+Description: Analyzing SDLT and granny flats, examining the implications, and providing expert insights for professionals. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/sdlt-and-granny-flats-is-the-writing-on-the-dividing-wall
+-
+Index: 89 
+Title: Tax on Football Agents’ Fees – the Current Position 
+Date: 05 May 2023 
+Description: Understand the current tax position on football agents' fees, managing tax obligations and planning for efficient tax treatment in the industry. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/tax-on-football-agents-fees-the-current-position
+-
+Index: 90 
+Title: Off-Payroll workers - Ready for a review by HMRC? 
+Date: 05 May 2023 
+Description: Prepare for HMRC reviews of off-payroll workers, ensuring compliance and managing potential tax and employment issues proactively. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/off-payroll-workers-ready-for-a-review-by-hmrc
+-
+Index: 91 
+Title: Tax administration and maintenance day  
+Date: 27 April 2023 
+Description: If you are interested in how much tax you pay, when you have to pay it and how much paperwork HMRC requires you to provide, then it is worth reviewing the key updates below. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/budget/tax-administration-and-maintenance-day
+-
+Index: 92 
+Title: Tax on income not received - Court of Appeal ruling on film scheme 
+Date: 24 April 2023 
+Description: Learn about the Court of Appeal ruling on film scheme tax issues, resolving disputes related to tax on income not received with expert insights. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/tax-on-income-not-received-court-of-appeal-ruling-on-film-scheme
+-
+Index: 93 
+Title: Construction Industry Scheme (CIS) – are you getting it right? 
+Date: 20 April 2023 
+Description: A number of changes have been made the Construction Industry Scheme, we highlight those changes and explain HMRC’s current approach to enforcement. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/construction-industry-scheme-the-facts
+-
+Index: 94 
+Title: BDO Tax Mediate 
+Date: 20 April 2023 
+Description: With our help you can finally bring an end to your tax dispute with HMRC. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/bdo-tax-mediate
+-
+Index: 95 
+Title: How was your year end? 
+Date: 13 April 2023 
+Description: Reflect on your year-end with tax automation, ensuring accurate tax reporting, compliance, and leveraging technology for seamless tax processes. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-automation-and-innovation/how-was-your-year-end
+-
+Index: 96 
+Title: QAHC or Securitisation SPV - which is best for your next debt fund? 
+Date: 03 April 2023 
+Description: Determine the best option for your next debt fund: QAHC or Securitisation SPV. Expert insights. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/qahc-or-securitisation-spv-which-is-best-for-your-next-debt-fund
+-
+Index: 97 
+Title: Missed the deadline? How P11D and share plan annual return penalties work 
+Date: 03 April 2023 
+Description: BDO explains when year-end payroll penalties will be charged. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/missed-the-deadline-how-p11d-and-share-plan-annual-return-penalties-work
+-
+Index: 98 
+Title: SMART Pensions – how they work 
+Date: 03 April 2023 
+Description: Get informed about Smart Pensions, their benefits, and how they can support your employees' retirement planning for a secure financial future. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/smart-pensions-the-facts
+-
+Index: 99 
+Title: Share Plans Update: Incentivising Fintech Employees - The New opportunities 
+Date: 31 March 2023 
+Description: Discover new opportunities in incentivizing Fintech employees through share plans, attracting top talent and fostering growth in the industry. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/share-plans-update-incentivising-fintech-employees-the-new-opportunities
+-
+Index: 100 
+Title: Basis period reform – what should my partnership do next? 
+Date: 28 March 2023 
+Description: None 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/partnership-tax/basis-period-reform-what-should-my-partnership-do-next
+-
+Index: 101 
+Title: Have you duplicated payments through the Customs Declarations System? 
+Date: 27 March 2023 
+Description: Identify and prevent duplicated payments in customs declarations. Expert guidance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/have-you-duplicated-payments-through-the-customs-declarations-system
+-
+Index: 102 
+Title: Pensions changes for 2023/24 onwards – how they work 
+Date: 23 March 2023 
+Description: Discover how the removal of the Lifetime allowance will affect those with large pension pots. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/pensions-changes-for-2023-24-onwards-how-they-work
+-
+Index: 103 
+Title: Back to basics: Section 165 holdover relief 
+Date: 20 March 2023 
+Description: Learn about Section 165 Holdover Relief, explained for professionals with expert insights and practical advice. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/back-to-basics-section-165-holdover-relief
+-
+Index: 104 
+Title: Types of sale considerations to know before selling your business 
+Date: 14 March 2023 
+Description: Types of Sale Considerations to Know Before Selling Your Business 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/types-of-sale-considerations-to-know-before-selling-your-business
+-
+Index: 105 
+Title: ATED - 2023/24 is a revaluation year 
+Date: 02 March 2023 
+Description: Learn about the ATED 2023-24 revaluation year, managing tax obligations for residential properties and optimizing tax outcomes with expert advice. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/real-estate-and-construction-taxes/ated-2023-24-is-a-revaluation-year
+-
+Index: 106 
+Title: Short term business visitors 
+Date: 27 February 2023 
+Description: Understand the implications of short-term business visitors, managing tax compliance and minimizing risks related to their international assignments. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/short-term-business-visitors
+-
+Index: 107 
+Title: R&D Tax Credits: Benchmark Tool 
+Date: 24 February 2023 
+Description: Utilise our R&D benchmark tool for better innovation analysis, maximizing tax credits, and gaining a competitive edge in research and development. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/r-and-d-benchmark-tool
+-
+Index: 108 
+Title: Are HMRC set to perform more rigorous compliance checks on Employment Related Securities? 
+Date: 23 February 2023 
+Description: Ahead of the 6 July Share Plan Reporting deadline, HMRC have announced an increase in mandatory data to be reported on the Employer Related Securities (ERS) Returns. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/are-hmrc-set-to-perform-more-rigorous-compliance-checks-on-employment-related-securities
+-
+Index: 109 
+Title: Clockwatching and the countdown to the annual share plan filings deadline 
+Date: 23 February 2023 
+Description: Key share plan reporting issues to consider - clockwatching and the countdown. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/clockwatching-and-the-countdown-to-the-annual-share-plan-filings-deadline
+-
+Index: 110 
+Title: 10 reasons your R&D tax relief claim may get you into trouble 
+Date: 23 February 2023 
+Description: We explain why HMRC enquiries can arise on R&D claims. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/10-reasons-your-r-d-tax-relief-claim-may-get-you-into-trouble
+-
+Index: 111 
+Title: Changes to VAT option to tax procedures 
+Date: 22 February 2023 
+Description: Find out about significant changes to VAT option to tax procedures, with effect from 1 February 2023. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/changes-to-vat-option-to-tax-procedures
+-
+Index: 112 
+Title: R&D technology – tech enabled service delivery to rethink your claims 
+Date: 20 February 2023 
+Description: We explain how to make your R&D claims more robust and claim outcomes more predicable. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/r-d-technology-tech-enabled-service-delivery-to-rethink-your-claims
+-
+Index: 113 
+Title: Personal Tax Planning 2022/23 
+Date: 17 February 2023 
+Description: Is now a good time to enhance your, your family’s or company’s tax-efficient plans for the future? 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/personal-tax-planning-2022-23
+-
+Index: 114 
+Title: Non-resident directors - Are you getting their UK income tax and NIC position right?  
+Date: 13 February 2023 
+Description: UK tax compliance risks when non-resident directors come to the UK 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/non-resident-directors-are-you-getting-their-uk-income-tax-and-nic-position-right
+-
+Index: 115 
+Title: Corporation tax changes from 1 April 2023 
+Date: 13 February 2023 
+Description: Prepare for corporation tax changes from April 2023 with expert insights and guidance for professionals. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/corporation-tax-changes-from-1-april-2023
+-
+Index: 116 
+Title: P11D tips – COVID-19 and benefits in kind 
+Date: 10 February 2023 
+Description: Navigate the impact of COVID-19 on benefits in kind with P11D tips, ensuring compliance and understanding the tax implications accurately. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/p11d-tips-covid-19-and-benefits-in-kind
+-
+Index: 117 
+Title: P11D tips - Payrolled benefits? Don’t forget your P11D(b) 
+Date: 10 February 2023 
+Description: It has been possible for employers to tax the value of employee benefits through the payroll for several years. While this can save on year-end administration, there are still some important points to remember if you opted to payroll benefits for the first time in 2022/23. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/p11d-tips-payrolled-benefits-dont-forget-your-p11d-b
+-
+Index: 118 
+Title: P11D tips – Loan benefits 
+Date: 10 February 2023 
+Description: Learn about loan benefit reporting in P11D with helpful tips. Avoid errors and ensure accurate tax assessment for your organization. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/p11d-tips-loan-benefits
+-
+Index: 119 
+Title: P11D tips – Car and van benefits 2022/23 
+Date: 10 February 2023 
+Description: Discover valuable P11D tips for car and van benefits, managing tax implications efficiently and maximizing benefits for your employees. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/p11d-tips-car-and-van-benefits
+-
+Index: 120 
+Title: Employers’ Year End Reporting 2023 
+Date: 10 February 2023 
+Description: Helping employers manage reporting to HMRC after the end of the tax year. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/employers-year-end-reporting-dont-miss-the-deadline
+-
+Index: 121 
+Title: P11D Explained: tips for completing your P11D 
+Date: 09 February 2023 
+Description: None 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/p11d-explained-tips-for-completing-your-p11d
+-
+Index: 122 
+Title: National TSP Team 
+Date: 02 February 2023 
+Description: Discover the National Tax Support Team, providing professional tax support with expert assistance and guidance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/national-tsp-team
+-
+Index: 123 
+Title: Taxes on playing in the UK – advice for international sports stars 
+Date: 31 January 2023 
+Description: Gain tax advice for international sports stars playing in the UK, ensuring compliance and optimizing tax implications for their professional income. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/taxes-on-playing-in-the-uk-advice-for-international-sports-stars
+-
+Index: 124 
+Title: Gender Pay Gap Reporting 
+Date: 30 January 2023 
+Description: Understand gender pay gap reporting obligations and how your company can promote equality and bridge gender disparities in the workplace. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/gender-pay-gap-reporting
+-
+Index: 125 
+Title: Ethnicity Pay Gap reporting 
+Date: 27 January 2023 
+Description: Ethnicity pay gap reporting is building towards far greater transparency and disclosure on ethnicity pay as part of a business’s ESG reporting, just as it did around gender pay. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/ethnicity-pay-gap-reporting
+-
+Index: 126 
+Title: Gender Pay Gap Reporting – Impact of COVID-19 
+Date: 27 January 2023 
+Description: Following the delayed enforcement of gender pay gap reporting, we explore the impact COVID-19 has had on the Gender Pay Gap report. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/gender-pay-gap-reporting-impact-of-covid-19
+-
+Index: 127 
+Title: HMRC targets on online traders, influencers and vloggers 
+Date: 23 January 2023 
+Description: Explore how HMRC targets online traders, influencers, and vloggers, handling tax disputes related to digital commerce and content creators. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/hmrc-targets-on-online-traders-influencers-and-vloggers
+-
+Index: 128 
+Title: UK transfer pricing changes from April 2023 
+Date: 18 January 2023 
+Description: Stay updated with the UK transfer pricing changes from April 2023. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-international-tax/uk-transfer-pricing-changes-from-april-2023
+-
+Index: 129 
+Title: AI - Everyone is chatting about ChatGPT 
+Date: 17 January 2023 
+Description: Explore the potential of ChatGPT, an AI language model, revolutionizing interactions and driving innovation across various industries. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/ai-everyone-is-chatting-about-chatgpt
+-
+Index: 130 
+Title: VAT penalties from 1 January 2023 – points add up to penalties 
+Date: 12 January 2023 
+Description: Be aware of VAT penalties starting Jan 2023. Points add up to penalties. Expert insights on VAT and indirect taxes. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/vat-penalties-from-1-january-2023-points-add-up-to-penalties
+-
+Index: 131 
+Title: UK Self-Assessment Deadline - Cryptoasset Reporting 
+Date: 11 January 2023 
+Description: Don't miss the UK self-assessment deadline for cryptoasset reporting, resolving tax disputes and compliance matters for digital assets with expert guidance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/uk-self-assessment-deadline-cryptoasset-reporting
+-
+Index: 132 
+Title: R&D tax relief – new requirements for claims 
+Date: 22 December 2022 
+Description: Stay updated on the new requirements for R&D tax relief claims, ensuring compliance and optimizing incentives for research and development initiatives. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/r-d-tax-relief-new-requirements-for-claims
+-
+Index: 133 
+Title: Digital age VAT in the EU – reforms on the way 
+Date: 20 December 2022 
+Description: Understand upcoming VAT reforms in the digital age within the EU. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/digital-age-vat-in-the-eu-reforms-on-the-way
+-
+Index: 134 
+Title: VAR - How can AI and machine learning make football decisions faster? 
+Date: 15 December 2022 
+Description: Find out about how robots could referee football matches in future. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/var-how-can-ai-and-machine-learning-make-football-decisions-faster
+-
+Index: 135 
+Title: Second 2022 Finance Bill to be enacted shortly 
+Date: 15 December 2022 
+Description: The short second 2022 Finance Bill containing some Autumn Statement measures passed its third reading in the House of Commons on 30 November 2022. It will now proceed to the House of Lords, and is expected to be enacted shortly, when it will be known as the Finance (No. 2) Act 2022. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/second-2022-finance-bill-to-be-enacted-shortly
+-
+Index: 136 
+Title: Failure to report your taxes can get you more than a red card 
+Date: 02 December 2022 
+Description: We consider the lessons from the John Carew case. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/failure-to-report-your-taxes-can-get-you-more-than-a-red-card
+-
+Index: 137 
+Title: R&D tax enquiries – helping to correct mistakes in claims 
+Date: 01 December 2022 
+Description: Explore how R&D tax enquiries help correct mistakes in claims, ensuring accuracy and compliance for tax relief and incentives in research and development. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/r-d-tax-enquiries-helping-to-correct-mistakes-in-claims
+-
+Index: 138 
+Title: HMRC targets offshore corporates owning UK property 
+Date: 30 November 2022 
+Description: Discover how HMRC targets offshore corporates owning UK property, managing tax disputes and obligations for foreign entities with property holdings. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/hmrc-targets-offshore-corporates-owning-uk-property
+-
+Index: 139 
+Title: Tax transparency moves a step closer for the gig economy 
+Date: 21 November 2022 
+Description: Discover how tax transparency progresses in the gig economy, managing tax disputes and compliance issues for gig workers with expert assistance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/tax-transparency-moves-a-step-closer-for-the-gig-economy
+-
+Index: 140 
+Title: VAT on transfers of a business as a going concern 
+Date: 11 November 2022 
+Description: VAT on Business Transfers 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/vat-on-transfers-of-a-business-as-a-going-concern
+-
+Index: 141 
+Title: Seasonal staff benefits 
+Date: 10 November 2022 
+Description: Plan corporate events strategically to ensure tax compliance. Get expert advice to ensure smooth and compliant celebrations. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/seasonal-staff-benefits
+-
+Index: 142 
+Title: HMRC publishes new Guidelines for Compliance 
+Date: 09 November 2022 
+Description: HMRC has started to publish Guidelines for Compliance, to set out its view on tax issues which it considers are complex, widely misunderstood or novel. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/hmrc-publishes-new-guidelines-for-compliance
+-
+Index: 143 
+Title: Can I QAHC? How the ownership condition works 
+Date: 07 November 2022 
+Description: Learn how the ownership condition works for tax purposes. Expert explanation to bring clarity for your business. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/can-i-qahc-how-the-ownership-condition-works
+-
+Index: 144 
+Title: Esports Players - tax matters to consider 
+Date: 03 November 2022 
+Description: Consider tax matters for esports players, understanding tax implications and maximizing tax benefits for professionals in the esports industry. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/esports-players-tax-matters-to-consider
+-
+Index: 145 
+Title: NIC changes from 6 November 2022 
+Date: 27 October 2022 
+Description: How the NIC rate reduction will work 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/nic-changes-from-6-november-2022
+-
+Index: 146 
+Title: Holiday pay and irregular work patterns – how it works  
+Date: 26 October 2022 
+Description: BDO explains how to calculate employee holiday pay when staff work patterns change. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/holiday-pay-and-irregular-work-patterns-how-it-works
+-
+Index: 147 
+Title: VAT Training Workshops 
+Date: 24 October 2022 
+Description: VAT training programmes to help your organisation proactively manage its tax position. The sessions provide training for individual organisations and cover the topics that will be expressly relevant to your needs. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/vat-training-workshops
+-
+Index: 148 
+Title: Transfer Pricing Compliance Approach Planner 
+Date: 20 October 2022 
+Description: Discover expert strategies to ensure compliance in transfer pricing. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-international-tax/transfer-pricing-compliance-approach-planner
+-
+Index: 149 
+Title: CSOPs are improving – how they will work from 2023 
+Date: 14 October 2022 
+Description: CSOPs are evolving. Discover the improvements and changes to Company Share Option Plans from 2023. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/csops-are-improving-how-they-will-work-from-2023
+-
+Index: 150 
+Title: Women’s football – tax matters to consider 
+Date: 06 October 2022 
+Description: Address tax considerations in women's football, managing finances, and optimizing tax arrangements for a thriving football community. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/womens-football-tax-matters-to-consider
+-
+Index: 151 
+Title: CHIEF is retiring – are you ready for CDS from 1 October? 
+Date: 27 September 2022 
+Description: Be prepared for CDS implementation as the CHIEF system retires. Expert insights on VAT and customs duty. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/chief-is-retiring-are-you-ready-for-cds-from-1-october
+-
+Index: 152 
+Title: Blockchain technology – why its uses go far beyond cryptoassets 
+Date: 20 September 2022 
+Description: Uncover the diverse uses of blockchain technology beyond cryptoassets, revolutionizing industries with its decentralized, secure, and transparent capabilities. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/blockchain-technology-why-its-uses-go-far-beyond-cryptoassets
+-
+Index: 153 
+Title: BlackRock ruling shakes up the landscape for acquisition structures 
+Date: 15 September 2022 
+Description: Analyzing the impact of the BlackRock ruling on acquisition structures. Expert insights. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/blackrock-ruling-shakes-up-the-landscape-for-acquisition-structures
+-
+Index: 154 
+Title: Rethinking Corporate Tax Compliance 
+Date: 08 September 2022 
+Description: You can rely on us to help you rethink your approach to corporate tax reporting and compliance so that it is effective, efficient and sustainably fit for purpose. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/rethinking-corporate-tax-compliance
+-
+Index: 155 
+Title: Supporting employees with energy costs 
+Date: 02 September 2022 
+Description: Learn how to support employees with energy costs, implementing effective strategies to reduce financial burdens and enhance employee well-being. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/supporting-employees-with-energy-costs
+-
+Index: 156 
+Title: Employment status - still too difficult 
+Date: 26 August 2022 
+Description: Understanding employment status complexities. Expert analysis and solutions. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/employment-status-still-too-difficult
+-
+Index: 157 
+Title: Software integration- could R&D relief help fund your project?  
+Date: 17 August 2022 
+Description: We explain how software integration projects frequently include qualifying R&D. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/software-integration-could-r-d-relief-help-fund-your-project
+-
+Index: 158 
+Title: Customs Training  
+Date: 17 August 2022 
+Description: Get up to speed with recent customs duty changes - Live customs training course for businesses and professionals 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/customs-training
+-
+Index: 159 
+Title: UK legislates for OECD Pillar Two rules 
+Date: 11 August 2022 
+Description: Understand the UK legislation on OECD Pillar Two rules. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-international-tax/uk-legislates-for-oecd-pillar-two-rules
+-
+Index: 160 
+Title: National Minimum Wage and time off in lieu (TOIL) 
+Date: 04 August 2022 
+Description: How is TOIL treated for National Minimum Wage purposes? Find out the latest update on this are from a National Minimum Wage (NMW) compliance perspective. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/national-minimum-wage-and-time-off-in-lieu-(toil)
+-
+Index: 161 
+Title: UK property - overseas entities must register and declare their beneficial owners 
+Date: 03 August 2022 
+Description: Find out about the UK property registration and beneficial owners declaration for overseas entities, managing tax disputes related to property holdings. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/uk-property-overseas-entities-must-register-and-declare-their-beneficial-owners
+-
+Index: 162 
+Title: COVID-19: Government support for individuals and businesses 
+Date: 28 July 2022 
+Description: Explore UK Government support for businesses during and after the COVID-19. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/covid-19-government-support-for-individuals-and-businesses
+-
+Index: 163 
+Title: UK Trust Register - third-party access from 1 September 2022 
+Date: 22 July 2022 
+Description: Learn about third-party access to the UK Trust Register from 1 September 2022, managing tax disputes and compliance for trusts with expert assistance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/uk-trust-register-third-party-access-from-1-september-2022
+-
+Index: 164 
+Title: Remuneration Trust Settlement Opportunity Update 
+Date: 15 July 2022 
+Description: Get updated on the Remuneration Trust Settlement Opportunity, handling tax disputes related to remuneration trusts with expert guidance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/remuneration-trust-settlement-opportunity-update
+-
+Index: 165 
+Title: R&D relief for pure maths 
+Date: 11 July 2022 
+Description: Learn about R&D relief for pure mathematics, exploring the potential benefits and incentives for businesses conducting groundbreaking research in the field. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/r-d-relief-for-pure-maths
+-
+Index: 166 
+Title: Capital allowances - will reform bring stability? 
+Date: 08 July 2022 
+Description: We consider the Government’s options for changes to capital allowances. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/capital-allowances/capital-allowances-will-reform-bring-stability
+-
+Index: 167 
+Title: Emerging technology innovations in Financial Services and Fintech 
+Date: 04 July 2022 
+Description: Stay updated on emerging technology innovations in the financial services and fintech sectors, exploring their potential impact on the industry. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/emerging-technology-innovations-in-financial-services-and-fintech
+-
+Index: 168 
+Title: The Enterprise Investment Scheme and AIM 
+Date: 30 June 2022 
+Description: The Enterprise Investment Scheme and AIM Companies 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/the-enterprise-investment-scheme-and-aim
+-
+Index: 169 
+Title: Non-resident landlords – accounts to support UK corporation tax returns 
+Date: 24 June 2022 
+Description: Non-Resident Landlords and UK Tax Returns 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/non-resident-landlords-accounts-to-support-uk-corporation-tax-returns
+-
+Index: 170 
+Title: Patent Box – 10 myths that shouldn’t deter you from claiming 
+Date: 23 June 2022 
+Description: We bust some common myths that stop businesses claiming Patent Box relief. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/patent-box-10-myths-that-shouldnt-deter-you-from-claiming
+-
+Index: 171 
+Title: Staff uniforms - do you have a national minimum wage problem? 
+Date: 14 June 2022 
+Description: Address potential National Minimum Wage issues related to staff uniforms, ensuring compliance and avoiding any wage-related complications. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/staff-uniforms-do-you-have-a-national-minimum-wage-problem
+-
+Index: 172 
+Title: Travel time for National Minimum Wage purposes 
+Date: 31 May 2022 
+Description: Assess travel time for National Minimum Wage purposes, managing pay calculations fairly and ensuring compliance with wage-related regulations. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/travel-time-for-national-minimum-wage-purposes
+-
+Index: 173 
+Title: Is your corporate tax compliance process fit for today? 
+Date: 19 May 2022 
+Description: The market drivers changing corporate tax compliance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/is-your-corporate-tax-compliance-process-fit-for-today
+-
+Index: 174 
+Title: Indian nationals claiming non-UK domicile status – how it works 
+Date: 18 May 2022 
+Description: Understand how non-UK domicile status works for Indian nationals, managing tax disputes and residency issues with expert insights. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/indian-nationals-claiming-non-uk-domicile-status-how-it-works
+-
+Index: 175 
+Title: 10 common pitfalls with Customs declarations 
+Date: 17 May 2022 
+Description: Avoid 10 common pitfalls with customs declarations. Expert guidance on VAT and indirect taxes. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/10-common-pitfalls-with-customs-declarations
+-
+Index: 176 
+Title: World of Private Clients 
+Date: 11 May 2022 
+Description: The World of Private Clients is an international research programme providing an understanding of the issues facing high net worth individuals, including global relocation trends, international tax differences and family businesses. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/world-of-private-clients
+-
+Index: 177 
+Title: Pay deductions and the National Minimum Wage 
+Date: 03 May 2022 
+Description: Understand pay deductions and their implications on the national minimum wage, ensuring compliance and fair treatment of your employees. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/pay-deductions-and-the-national-minimum-wage
+-
+Index: 178 
+Title: Pillar One and Pillar Two – implications for professional service partnerships 
+Date: 27 April 2022 
+Description: Assess the implications of Pillar One and Pillar Two for professional service partnerships, staying compliant and making informed tax planning decisions. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/partnership-tax/pillar-one-and-pillar-two-implications-for-professional-service-partnerships
+-
+Index: 179 
+Title: The impact of the OECD Pillar Two model rules on natural resource companies 
+Date: 27 April 2022 
+Description: All natural resources companies will be affected by the Pillar 2 proposals and this article considers some areas of immediate concern. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-international-tax/the-impact-of-the-oecd-pillar-two-model-rules-on-natural-resource-companies
+-
+Index: 180 
+Title: ATAD III – What is it and how will it work? 
+Date: 20 April 2022 
+Description: We explain the EU’s proposals to clamp down on shell companies. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-international-tax/atad-iii-what-is-it-and-how-will-it-work
+-
+Index: 181 
+Title: SDLT and ATED update - use of a residential property under the ‘Homes for Ukraine' Scheme 
+Date: 05 April 2022 
+Description: HMRC confirms that use of a residential property under the ‘Homes for Ukraine’ Scheme should not have any adverse SDLT or ATED implications. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/sdlt-and-ated-update-use-of-a-residential-property-under-the-homes-for-ukraine-scheme
+-
+Index: 182 
+Title: Global Employer Services 
+Date: 01 April 2022 
+Description: Find out more about our full range of tax services and advice for employers. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/global-employer-services
+-
+Index: 183 
+Title: National Minimum Wage – how might salary sacrifice affect this? 
+Date: 01 April 2022 
+Description: Explore the implications of salary sacrifice on the National Minimum Wage to make informed decisions about employee compensation. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/national-minimum-wage-how-might-salary-sacrifice-affect-this
+-
+Index: 184 
+Title: New tax transparency framework for crypto-assets 
+Date: 31 March 2022 
+Description: Discover the new tax transparency framework for crypto assets, managing tax disputes and compliance for cryptocurrency transactions with expertise. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/new-tax-transparency-framework-for-crypto-assets
+-
+Index: 185 
+Title: National Minimum Wage and the apprentice 
+Date: 22 March 2022 
+Description: Understand how the National Minimum Wage applies to apprenticeships, ensuring fair compensation and compliance with employment laws. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/national-minimum-wage-and-the-apprentice
+-
+Index: 186 
+Title: Insurance: How will adopting IFRS 17 affect your tax position? 
+Date: 18 March 2022 
+Description: We highlight the key points of HMRC’s consultation on IFRS 17 adoption. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/insurance-how-will-adopting-ifrs-17-affect-your-tax-position
+-
+Index: 187 
+Title: Is your new software eligible for Patent Box tax relief? 
+Date: 09 March 2022 
+Description: Determine if your new software qualifies for patent box tax relief, unlocking opportunities to reduce tax liabilities and promote innovation in the software industry. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/is-your-new-software-eligible-for-patent-box-tax-relief
+-
+Index: 188 
+Title: Is a volunteer entitled to the National Minimum Wage? 
+Date: 08 March 2022 
+Description: Discover if volunteers are entitled to the national minimum wage, ensuring compliance with employment regulations. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/is-a-volunteer-entitled-to-the-national-minimum-wage
+-
+Index: 189 
+Title: Freeports 
+Date: 07 March 2022 
+Description: Everything you will need or want to know about Freeports. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/freeports
+-
+Index: 190 
+Title: Purchase of own shares – HMRC update on single contract with multiple completion 
+Date: 04 March 2022 
+Description: HMRC has revised its position on single contracts with multiple completion in relation to company purchases of own shares. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/purchase-of-own-shares-hmrc-update-on-single-contract-with-multiple-completion
+-
+Index: 191 
+Title: Latest update on HMRC nudge letters 
+Date: 25 February 2022 
+Description: We cover the latest round of nudge letters sent by HMRC which include looking into discrepancies of cypto-assets. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/latest-update-on-hmrc-nudge-letters
+-
+Index: 192 
+Title: Domicile Enquiries – Partial Closure Notice requests 
+Date: 24 February 2022 
+Description: We explain the eagerly anticipated decision of the Upper Tier Tribunal (“UT”) in the case of HMRC v Epaminondas Embiricos. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/domicile-enquiries-partial-closure-notice-requests
+-
+Index: 193 
+Title: What is ‘working time’ for the purposes of National Minimum Wage? 
+Date: 17 February 2022 
+Description: Determine working time for National Minimum Wage, understanding regulations, and avoiding any wage-related issues for your employees. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/what-is-working-time-for-the-purposes-of-national-minimum-wage
+-
+Index: 194 
+Title: R&D reform update – overseas workers, data/cloud computing costs and anti-abuse action 
+Date: 17 February 2022 
+Description: Stay informed on R&D reform updates concerning overseas workers, data, cloud computing, and anti-abuse actions, ensuring compliance and maximizing tax benefits. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/r-d-reform-update-overseas-workers-data-cloud-computing-costs-and-anti-abuse-action
+-
+Index: 195 
+Title: VAT and compensation – the next (and final?) chapter 
+Date: 11 February 2022 
+Description: We explain how HMRC’s new VAT guidance on will apply on cancelation payments. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/vat-and-compensation-the-next-and-final-chapter
+-
+Index: 196 
+Title: P11D tips - Calculating the taxable value of benefits in kind under OpRA  
+Date: 11 February 2022 
+Description: Read Stuart Daltrey's tip for P11D on calculating the taxable value of benefits in kind under OpRA. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/p11d-tips-calculating-the-taxable-value-of-benefits-in-kind-under-opra
+-
+Index: 197 
+Title: Coronavirus Job Retention Scheme (CJRS) 
+Date: 09 February 2022 
+Description: Your questions about the Coronavirus Job Retention Scheme (CJRS), or Furlough Scheme, answered. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/employer-essentials/coronavirus-job-retention-scheme
+-
+Index: 198 
+Title: Keep your goods moving in and out of the UK: frequently asked questions 
+Date: 07 February 2022 
+Description: In the latest of our quarterly webinars we were joined by HMRC to examine and explain the new Border Operating Model giving a comprehensive overview of customs processes as well as the Plastic Packaging Tax. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/keep-your-goods-moving-in-and-out-of-the-uk-frequently-asked-questions
+-
+Index: 199 
+Title: P11D tips – Skip the trivial stuff? 
+Date: 07 February 2022 
+Description: Report qualifying ‘trivial’ benefits on forms P11D only where all four of these conditions are met. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/p11d-tips-skip-the-trivial-stuff
+-
+Index: 200 
+Title: HMRC issue welcome guidance on De-Fi 
+Date: 07 February 2022 
+Description: Analysis of HMRC's guidance on decentralized finance (De-Fi), managing the tax implications and understanding regulatory requirements for De-Fi activities. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/hmrc-issue-welcome-guidance-on-de-fi
+-
+Index: 201 
+Title: P11D tips – New company toy?  
+Date: 04 February 2022 
+Description: Lending your employees the company assets? This still triggers a benefit in kind – read our tip on how to report them on employees P11Ds. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/p11d-tips-new-company-toy
+-
+Index: 202 
+Title: Changing how business profits are taxed from 2023/24 – basis period reform 
+Date: 28 January 2022 
+Description: Prepare for changes in business profit tax from 2023-24 with basis period reform, ensuring your partnership's compliance and understanding the impact. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/partnership-tax/changing-how-business-profits-are-taxed-from-2023-24-basis-period-reform
+-
+Index: 203 
+Title: Moving your business to the UK? It may be much easier in future 
+Date: 21 January 2022 
+Description: BDO explains the UK government’s corporate re-domiciliation proposals. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-international-tax/moving-your-business-to-the-uk-it-may-be-much-easier-in-future
+-
+Index: 204 
+Title: Electric Vehicles (EVs) salary sacrifice  
+Date: 20 January 2022 
+Description: Leverage salary sacrifice for electric vehicles to reap tax benefits. Encourage sustainable choices while saving on taxes. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/electric-vehicles-(evs)-salary-sacrifice
+-
+Index: 205 
+Title: Corporate Criminal Offence: Top 10 FAQs 
+Date: 17 January 2022 
+Description: Get answers to the top 10 frequently asked questions about corporate criminal offences. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/corporate-criminal-offence-top-10-faqs
+-
+Index: 206 
+Title: Working from Anywhere: the new reality 
+Date: 06 January 2022 
+Description: Embrace the new reality of remote work, exploring the benefits, challenges, and strategies to optimize productivity in the modern work environment. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/working-from-anywhere-the-new-reality
+-
+Index: 207 
+Title: Tax changes for employers in 2022/23  
+Date: 03 January 2022 
+Description: Find out the key tax and employment related changes effective from April 2022. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/2022-23-tax-changes-for-employers
+-
+Index: 208 
+Title: Boosting EBITDA with R&D tax credits 
+Date: 16 December 2021 
+Description: Three tips on how to maximise your tax incentives in a streamlined manner that will deliver value to investors, boards and businesses alike. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/boosting-ebitda-with-r-d-tax-credits
+-
+Index: 209 
+Title: Temporary non-residence - the anti-avoidance rules 
+Date: 16 December 2021 
+Description: Temporary Non-Residence & Anti-Avoidance 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/temporary-non-residence-the-anti-avoidance-rules
+-
+Index: 210 
+Title: What is a Tax Control Framework and why do I need one?  
+Date: 13 December 2021 
+Description: Explore the importance of a tax control framework, ensuring tax compliance, risk management, and efficient tax planning with expert insights. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-assurance-and-risk-management/what-is-a-tax-control-framework-and-why-do-i-need-one
+-
+Index: 211 
+Title: How pay and reward impact employee outcomes 
+Date: 06 December 2021 
+Description: Organisations are having to rethink how they use monetary and non-monetary levers to build and maintain a workforce that can sustainably deliver growth and success. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/how-pay-and-reward-impact-employee-outcomes
+-
+Index: 212 
+Title: A ‘pay and reward’ Framework for employers 
+Date: 06 December 2021 
+Description: Find out how your pay and reward structures can change employee outcomes in diversity, wellbeing, satisfaction and retention. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/how-pay-and-reward-impact-employee-outcomes-framework
+-
+Index: 213 
+Title: Qualifying Asset Holding Companies – Taking Flight 
+Date: 03 December 2021 
+Description: How qualifying asset holding companies are taking flight. Expert insights and benefits. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/qualifying-asset-holding-companies-taking-flight
+-
+Index: 214 
+Title: The future of international remote working 
+Date: 30 November 2021 
+Description: Discover the future landscape of international remote working, adapting to the changing work environment and optimizing your global workforce. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/the-future-of-international-remote-working
+-
+Index: 215 
+Title: UK/Indian financial interests – are your tax affairs in order? 
+Date: 25 November 2021 
+Description: Ensure your tax affairs are in order regarding UK-Indian financial interests, handling tax disputes related to international matters with expert insights. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-dispute-resolution/uk-indian-financial-interests-are-your-tax-affairs-in-order
+-
+Index: 216 
+Title: Tax treaties and personal allowances - check carefully! 
+Date: 22 November 2021 
+Description: Tax Treaties & Personal Allowances 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/tax-treaties-and-personal-allowances-check-carefully
+-
+Index: 217 
+Title: HR, incentives and retention issues in M&A transactions 
+Date: 18 November 2021 
+Description: HR Incentives & Retention in M&A Transactions 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/hr-incentives-and-retention-issues-in-m-a-transactions
+-
+Index: 218 
+Title: Are changes to the EOT rules on the way?  
+Date: 16 November 2021 
+Description: In September 2021, proposals were put forward to HMRC and the Treasury suggesting a consultation on reforms to EOT rules. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/are-changes-to-the-eot-rules-on-the-way
+-
+Index: 219 
+Title: Capping of payable R&D credits for SMEs  
+Date: 10 November 2021 
+Description: BDO explains how the new cap on repayable R&D credits will affect SMEs from April 2021. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/capping-of-payable-r-d-credits-for-smes
+-
+Index: 220 
+Title: Software development – should you claim R&D relief or the capital allowances super deduction? 
+Date: 02 November 2021 
+Description: Discover if you should claim R&D relief or capital allowances super deduction for software development, maximizing tax benefits for your project. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/software-development-should-you-claim-r-d-relief-or-the-capital-allowances-super-deduction
+-
+Index: 221 
+Title: SDLT multiple dwellings relief 
+Date: 26 October 2021 
+Description: Learn about SDLT multiple dwellings relief, its benefits, and expert insights for professionals. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/sdlt-multiple-dwellings-relief
+-
+Index: 222 
+Title: Update on the UK Trust registration service  
+Date: 12 October 2021 
+Description: Get the update on the UK trust registration service, complying with regulations and managing trust-related tax matters efficiently with expert help. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/update-on-the-uk-hmrc-trust-registration-service
+-
+Index: 223 
+Title: Labour Supply Chain Risk 
+Date: 07 October 2021 
+Description: There has been a marked growth in alternative models, from agencies, to umbrella companies and platforms such as the gig economy. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/labour-supply-chain-risk
+-
+Index: 224 
+Title: Trader Support Service: Customs Declarations 
+Date: 05 October 2021 
+Description: These declarations are required to account for any custom duty and Import VAT which could be levied on goods that are deemed ‘at risk’ of being diverted from NI into the EU. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/customs-declarations-trader-support-service
+-
+Index: 225 
+Title: R&D relief for SMEs – a question of intention 
+Date: 01 October 2021 
+Description: Discover how HMRC challenges R&D tax relief claims under the SME scheme on ownership grounds. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/r-d-relief-for-smes-a-question-of-intention
+-
+Index: 226 
+Title: Share Plan Reporting Tool  
+Date: 27 September 2021 
+Description: None 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/share-plan-reporting-tool
+-
+Index: 227 
+Title: What is your innovation strategy? 
+Date: 22 September 2021 
+Description: Define your innovation strategy and chart the path to success, ensuring alignment with research and development tax incentives for your business growth. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/what-is-your-innovation-strategy
+-
+Index: 228 
+Title: Domestic reverse charge VAT for construction services 
+Date: 16 September 2021 
+Description: Learn about the domestic reverse charge VAT for construction services. Expert insights on VAT and indirect taxes. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/domestic-reverse-charge-vat-for-construction-services
+-
+Index: 229 
+Title: HMRC Launches Extended Trust Registration Service 
+Date: 02 September 2021 
+Description: Discover the UK Trust Registration Service requirements for non-taxable trusts. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/hmrc-launches-extended-trust-registration-service
+-
+Index: 230 
+Title: 2023 tax rise makes patents more valuable 
+Date: 25 August 2021 
+Description: BDO explains the tax benefits of using the patent box scheme. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/innovation-and-research-and-development-tax-incentives/2023-tax-rise-makes-patents-more-valuable
+-
+Index: 231 
+Title: Off-payroll labour - IR35 in the private sector 
+Date: 19 August 2021 
+Description: Understand IR35 implications in the private sector and ensure proper compliance with tax regulations to avoid potential penalties and risks. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/employer-essentials/ir35-in-the-private-sector
+-
+Index: 232 
+Title: VAT on supplies between Great Britain and Northern Ireland from 1 August 2021 
+Date: 10 August 2021 
+Description: Learn about VAT on supplies between Great Britain and Northern Ireland from August 2021. Expert insights on VAT. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/vat-on-supplies-between-great-britain-and-northern-ireland-from-1-august-2021
+-
+Index: 233 
+Title: Tax Data Guide 
+Date: 06 August 2021 
+Description: Discover our Tax Data Guide. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/budget/tax-data-guide-6de045968e98da6eebb55f1446d2a99b
+-
+Index: 234 
+Title: CJRS Claims Review Service 
+Date: 06 August 2021 
+Description: Get expert support in calculating claims for the Coronavirus Job Retention Scheme (CJRS) to ensure accurate and compliant submissions. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/cjrs-claims-review-service
+-
+Index: 235 
+Title: Qualifying Asset Holding Companies – Summer Sensation? 
+Date: 23 July 2021 
+Description: BDO considers tax changes ahead for UK funds. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/private-client/qualifying-asset-holding-companies-summer-sensation
+-
+Index: 236 
+Title: Back to basics: Tax on Loans to Participators 
+Date: 09 July 2021 
+Description: Get clarity on Tax on Loans to Participators, a tax topic explained for professionals with expert insights and advice. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/back-to-basics-tax-on-loans-to-participators
+-
+Index: 237 
+Title: Governance in Employee-Owned Companies in the U.S. and the U.K. 
+Date: 09 July 2021 
+Description: In the third of our five-part series focusing on specific issues for EOTs and ESOPs, we look at key issues around governance and what they mean. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/governance-in-employee-owned-companies-in-the-u-s-and-the-u-k
+-
+Index: 238 
+Title: What is the small companies’ exemption for off-payroll rules? 
+Date: 16 June 2021 
+Description: What is a ‘small’ business for IR35 purposes? Does the small business exemption applies to you? Read more about the off-payroll rules. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/off-payroll-rules-what-is-the-small-companies-exemption
+-
+Index: 239 
+Title: Capital allowances super deduction – how it works 
+Date: 26 May 2021 
+Description: Discover the basics of the super deduction and Special Rate allowance. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/capital-allowances/capital-allowances-super-deduction-how-it-works
+-
+Index: 240 
+Title: Back to basics: Capital allowances - S 198 elections 
+Date: 18 May 2021 
+Description: S 198 elections are an important element in many commercial property transactions, for both the buyer and seller. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/back-to-basics-capital-allowances-s-198-elections
+-
+Index: 241 
+Title: UK patent box relief changes from 1 July 2021 
+Date: 26 April 2021 
+Description: UK Patent Box Relief Changes from 1 July 2021 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/uk-patent-box-relief-changes-from-1-july-2021
+-
+Index: 242 
+Title: Back to basics: Statutory demergers 
+Date: 22 April 2021 
+Description: Delve into Statutory Demergers, explained for professionals with expert insights to navigate this complex tax area. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/back-to-basics-statutory-demergers
+-
+Index: 243 
+Title: HMRC delaying tax repayments due to security checks  
+Date: 09 April 2021 
+Description: Learn more about the security checks that HMRC are introducing before they release tax repayments. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/hmrc-delaying-tax-repayments-due-to-security-checks
+-
+Index: 244 
+Title: Rewarding employees with crypto-assets? 
+Date: 22 March 2021 
+Description: BDO explains the tax treatment of crypto-assets awarded to employees. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/employer-essentials/rewarding-employees-with-crypto-assets
+-
+Index: 245 
+Title: Post-Brexit VAT recovery for financial services and insurance businesses 
+Date: 16 March 2021 
+Description: Discover how financial services businesses may increase their VAT recovery from 1 January 2021. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/post-brexit-vat-recovery-for-financial-services-and-insurance-businesses
+-
+Index: 246 
+Title: Temporary 5% VAT rate for hospitality – how it works 
+Date: 16 March 2021 
+Description: Understand how the temporary 5% VAT rate for hospitality works. Expert insights on VAT and indirect taxes. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/temporary-5-vat-rate-for-hospitality-how-it-works
+-
+Index: 247 
+Title: Tax as an essential part of your ESG Agenda 
+Date: 15 March 2021 
+Description: Find out how tax plays an essential role in your ESG agenda. Expert insights and considerations. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/corporate-tax/tax-as-an-essential-part-of-your-esg-agenda
+-
+Index: 248 
+Title: Plastic Packaging Tax – How it will work 
+Date: 12 March 2021 
+Description: BDO explains how the UK’s new tax will affect businesses from April 2022. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/plastic-packaging-tax-how-it-will-work
+-
+Index: 249 
+Title: P11D tips – Christmas parties in 2021 – anything to report? 
+Date: 22 February 2021 
+Description: P11D tips: Reporting the annual Christmas Party? Read more to learn how to apply the £150 limit. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/p11d-tips-christmas-parties-in-2021-anything-to-report
+-
+Index: 250 
+Title: Debt releases between companies with common shareholders 
+Date: 15 February 2021 
+Description: A release or waiver of a loan between companies with common shareholder(s) may be a distribution. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/tax-support-for-professionals/debt-releases-between-companies-with-common-shareholders
+-
+Index: 251 
+Title: Brexit – Social Security rules from 2021 
+Date: 09 February 2021 
+Description: BDO highlights the key changes UK-EU social security from 1 January 2021. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/brexit-social-security-rules-from-2021
+-
+Index: 252 
+Title: Budget 2021 – What we can expect 
+Date: 08 February 2021 
+Description: This is what we think the Chancellor will announce in Budget 2021. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/budget/what-we-can-expect
+-
+Index: 253 
+Title: VAT may now be due on compensation payments 
+Date: 05 February 2021 
+Description: A retrospective change in VAT policy will affect anyone charging customers to withdraw from or cancel agreements to supply goods or services. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/vat-and-indirect-taxes/vat-may-now-be-due-on-compensation-payments
+-
+Index: 254 
+Title: R&D staffing costs during COVID-19 – the devil is in the detail 
+Date: 04 February 2021 
+Description: BDO has two CRJS tools to support your business with calculations and understand your exposure to risk. 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/rd-staffing-costs-during-covid-19-the-devil-is-in-the-detail
+-
+Index: 255 
+Title: Which Employee Share Plan Tool  
+Date: 27 January 2021 
+Description: None 
+Link: https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/which-employee-share-plan-tool
+-

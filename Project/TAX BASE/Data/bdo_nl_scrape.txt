@@ -1,0 +1,192 @@
+Index: 0 
+Title: Foreign establishments soon to be excluded from Dutch VAT groups 
+Date: 30 October 2023 
+Description: Due to a change in policy it is no longer possible to include foreign establishments in a Dutch VAT group as of 1 January 2024. 
+Link: https://www.bdo.nl/en-gb/insights/foreign-establishments-soon-to-be-excluded-from-dutch-vat-groups
+-
+Index: 1 
+Title: Simplified triangular transaction rule brought in line with EU jurisprudence 
+Date: 26 September 2023 
+Description: The Secretary of Finance has withdrawn an important policy for applying the STT rule so that Dutch practice is in line with CJEU jurisprudence. 
+Link: https://www.bdo.nl/en-gb/insights/simplified-triangular-transaction-rule-brought-in-line-with-eu-jurisprudence
+-
+Index: 2 
+Title: VAT consequences of the ban on single use plastic packaging 
+Date: 05 September 2023 
+Description: Starting on 1 July 2023, a surcharge must be charged on single use plastic disposable packaging in the Netherlands. What VAT rate applies? 
+Link: https://www.bdo.nl/en-gb/insights/vat-consequences-of-the-ban-on-single-use-plastic-packaging
+-
+Index: 3 
+Title: New place of supply rules for virtual events to apply as from 2025 
+Date: 05 September 2023 
+Description: The place of supply rules for virtual events will change in 2025: What does this mean for you? 
+Link: https://www.bdo.nl/en-gb/insights/new-place-of-supply-rules-for-virtual-events-to-apply-as-from-2025
+-
+Index: 4 
+Title: EU Commission put forward ambitious proposals to reform EU Customs 
+Date: 05 July 2023 
+Description: The European Commission put forward ambitious and comprehensive proposals to reform EU Customs. We inform you about the VAT elements of the proposal. 
+Link: https://www.bdo.nl/en-gb/insights/eu-commission-put-forward-ambitious-proposals-to-reform-eu-customs
+-
+Index: 5 
+Title: Submit refund request to recover foreign VAT for 2022 
+Date: 04 July 2023 
+Description: Don't forget to file a refund application in time to reclaim foreign VAT. 
+Link: https://www.bdo.nl/en-gb/insights/submit-refund-request-to-recover-foreign-vat-for-2022
+-
+Index: 6 
+Title: VAT and drop shipping: Are you calculating the correct VAT?  
+Date: 04 July 2023 
+Description: A recently published position paper contains a surprising conclusion on the VAT treatment of drop shipping. How does it affect your situation? 
+Link: https://www.bdo.nl/en-gb/insights/vat-and-drop-shipping-are-you-calculating-the-correct-vat
+-
+Index: 7 
+Title: Applying the VAT reverse charge? Know your customer! 
+Date: 02 June 2023 
+Description: The Dutch Supreme Court has ruled that the customer’s identity must be known at the time the VAT reverse charge is applied. 
+Link: https://www.bdo.nl/en-gb/insights/applying-the-vat-reverse-charge-know-your-customer!
+-
+Index: 8 
+Title: EV charging: Are you applying the VAT rules correctly? 
+Date: 23 May 2023 
+Description: The charging of electric vehicles raises VAT-related questions. Are you applying the correct VAT treatment to avoid any unpleasant surprises? 
+Link: https://www.bdo.nl/en-gb/insights/ev-charging-are-you-applying-the-vat-rules-correctly
+-
+Index: 9 
+Title: Digital payments. Do you apply the right VAT treatment? 
+Date: 25 April 2023 
+Description: None 
+Link: https://www.bdo.nl/en-gb/insights/digital-payments-do-you-apply-the-right-vat-treatment
+-
+Index: 10 
+Title: VAT consequences of returned goods 
+Date: 30 March 2023 
+Description: If you have an online shop, you will likely process returns of goods. Did you know that it may be possible to reclaim VAT on returns in certain cases? 
+Link: https://www.bdo.nl/en-gb/insights/vat-consequences-of-returned-goods
+-
+Index: 11 
+Title: Expansion of the light regime for managers of investment institutions 
+Date: 25 January 2023 
+Description: As of 1 January 2023 a new exception has been included in the Dutch Financial Supervision Act: managers of investment institutions based in another Member State can also make use of the light regime. 
+Link: https://www.bdo.nl/en-gb/insights/expansion-of-the-light-regime-for-managers-of-investment-institutions
+-
+Index: 12 
+Title: BDO Legal’s Privacy Week Series 2023: Can contracts be used as a legal basis for behavioural advertising? 
+Date: 25 January 2023 
+Description: BDO Legal's Privacy Week Series: The recent fines totalling €390m handed down to Meta from the Irish Data Protection Commission raises questions for other companies 
+Link: https://www.bdo.nl/en-gb/insights/can-contracts-be-used-legal-basis-for-behavourial-advertising
+-
+Index: 13 
+Title: Four steps to registering the UBOs of trusts and similar legal constructs 
+Date: 22 December 2022 
+Description: The fact sheet includes the four steps and a number of frequently asked questions on the subject. -READ MORE- 
+Link: https://www.bdo.nl/en-gb/insights/four-steps-to-registering-the-ubos-of-trusts-and-similar-legal-constructs
+-
+Index: 14 
+Title: VAT in the Digital Age: Single VAT Registration 
+Date: 20 December 2022 
+Description: In this series of articles we inform you about the significant changes proposed by the European Commission in its VAT in the Digital Age package. 
+Link: https://www.bdo.nl/en-gb/insights/vat-in-the-digital-age-single-vat-registration
+-
+Index: 15 
+Title: VAT in the Digital Age: The Platform economy 
+Date: 20 December 2022 
+Description: In this series of articles we inform you about the significant changes proposed by the European Commission in its VAT in the Digital Age package. 
+Link: https://www.bdo.nl/en-gb/insights/vat-in-the-digital-age-the-platform-economy
+-
+Index: 16 
+Title: VAT in the Digital Age: Digital reporting and E-invoicing 
+Date: 20 December 2022 
+Description: In this series of articles we inform you about the significant changes proposed by the European Commission in its VAT in the Digital Age package. 
+Link: https://www.bdo.nl/en-gb/insights/vat-in-the-digital-age-digital-reporting-and-e-invoicing
+-
+Index: 17 
+Title: Legislative proposal introducing new VAT information obligations PSPs 
+Date: 07 December 2022 
+Description: New VAT recordkeeping and reporting obligations will apply to payment service providers as from 1 January 2024. Read more in our article. 
+Link: https://www.bdo.nl/en-gb/insights/legislative-proposal-introducing-new-vat-information-obligations-psps
+-
+Index: 18 
+Title: Groundbreaking: ECJ ends public access to UBO Register 
+Date: 30 November 2022 
+Description: The UBO Register can no longer be accessed by any member of the public. In its ruling of 22 November 2022, the EU Court of Justice (‘ECJ’) ended public access to the UBO Register 
+Link: https://www.bdo.nl/en-gb/insights/groundbreaking-ecj-ends-public-access-to-ubo-register
+-
+Index: 19 
+Title: IASB decides on IAS 12 adjustments for Pillar Two implications 
+Date: 29 November 2022 
+Description: IASB proposes temporary exemption from accounting for deferred tax arising from implementation of Pillar Two model rules 
+Link: https://www.bdo.nl/en-gb/insights/iasb-decides-on-ias-12-adjustments-for-pillar-two-implications
+-
+Index: 20 
+Title: EU Court of Justice – no state aid in Fiat case  
+Date: 10 November 2022 
+Description: On 8 November 2022 the European Court of Justice (“EUCJ”) published their judgement in the joined cases C‑885/19 P and C‑898/19 P, better known as the “Fiat case”. 
+Link: https://www.bdo.nl/en-gb/insights/eu-court-of-justice-%E2%80%93-no-state-aid-in-fiat-case
+-
+Index: 21 
+Title: VAT and customs duties waived on life-saving relief goods intended for Ukrainian war victims 
+Date: 10 November 2022 
+Description: As a result of the war in Ukraine, the European Commission has decided to provide temporary VAT and customs duty relief on the import of critical goods. Read more in our article. 
+Link: https://www.bdo.nl/en-gb/insights/vat-and-customs-duties-waived-on-life-saving-relief-goods-intended-for-ukrainian-war-victims
+-
+Index: 22 
+Title: Introduction of a Temporary Solidarity Contribution Act for the gas, oil and coal sector 
+Date: 03 November 2022 
+Description: On 1 November 2022, the Dutch Cabinet sent the Bill on Temporary Solidarity Contribution Act to the Dutch House of Representatives proposing to impose a one-off 'solidarity contribution' on companies liable to Dutch corporate tax in the gas, oil and coal sector. 
+Link: https://www.bdo.nl/en-gb/insights/introduction-of-a-temporary-solidarity-contribution-act-for-the-gas-oil-and-coal-sector
+-
+Index: 23 
+Title: VAT exemption for management of pension funds? Safeguard your rights! 
+Date: 01 November 2022 
+Description: The CJEU has been asked to rule on the application of the VAT exemption for the management of a pension fund. What does this mean for you? 
+Link: https://www.bdo.nl/en-gb/insights/vat-exemption-for-management-of-pension-funds-safeguard-your-rights!
+-
+Index: 24 
+Title: Charged VAT incorrectly? Take action a.s.a.p. 
+Date: 01 November 2022 
+Description: What are the consequences of charging (too much) VAT incorrectly? And more importantly, what can you do to avoid the unpleasant consequences of incorrectly charged VAT? Read more about it in our article. 
+Link: https://www.bdo.nl/en-gb/insights/charged-vat-incorrectly-take-action-a-s-a-p
+-
+Index: 25 
+Title: Internet consultation: Minimum Tax Act 2024 (Pillar Two)  
+Date: 26 October 2022 
+Description: On October 24, 2022, the Dutch Ministry of Finance opened a consultation on the draft Minimum Tax Act 2024 (Pillar Two). 
+Link: https://www.bdo.nl/en-gb/insights/internet-consultation-minimum-tax-act-2024-(pillar-two)
+-
+Index: 26 
+Title: Which VAT is deductible to a holding company? And which VAT not?  
+Date: 20 September 2022 
+Description: It is not unusual for a holding company to incur costs that are (partly) used for the activities of subsidiaries. But what if a holding company that qualifies as a VAT entrepreneur purchases services from third parties and contributes these services to the capital of a subsidiary 
+Link: https://www.bdo.nl/en-gb/insights/which-vat-is-deductible-to-a-holding-company-and-which-vat-not
+-
+Index: 27 
+Title: Refund of UK VAT? Due date refund request 31 December 2022! 
+Date: 15 September 2022 
+Description: As 1 January 2021 the United Kingdom is no longer part of the European Union due to the Brexit. This also affects how UK VAT paid after the Brexit must be reclaimed. In this article we address some points of attention for you. 
+Link: https://www.bdo.nl/en-gb/insights/refund-of-uk-vat-due-date-refund-request-31-december-2022!-en
+-
+Index: 28 
+Title: Dutch court questions EU law compatibility of base erosion rule 
+Date: 13 September 2022 
+Description: On 2 September 2022, the Supreme Court of the Netherlands referred questions for a preliminary ruling to the European Court of Justice (“ECJ”) on whether EU law precludes the application of the base erosion rule of Article 10a of the Dutch Corporate Income Tax Act of 1969 (“CITA”). 
+Link: https://www.bdo.nl/en-gb/insights/dutch-court-questions-eu-law-compatibility-of-base-erosion-rule
+-
+Index: 29 
+Title: Allowance energy suppliers in case of VAT refund due to discount 
+Date: 06 September 2022 
+Description: None 
+Link: https://www.bdo.nl/en-gb/insights/allowance-energy-suppliers-in-case-of-vat-refund-due-to-discount
+-
+Index: 30 
+Title: Adjustment tax loss compensation rules per January 1, 2022 – law is enacted 
+Date: 13 July 2021 
+Description: The loss carryforward rules in the Dutch corporate income tax Act will both be limited and expanded as of January 1, 2022. Read more about the important implications. 
+Link: https://www.bdo.nl/en-gb/insights/adjustment-tax-loss-compensation-rules-per-january-1-2022-law-is-enacted
+-
+Index: 31 
+Title: Routine Entities and Principals - Adjusting Profits 
+Date: 23 June 2021 
+Description: None 
+Link: https://www.bdo.nl/en-gb/insights/routine-entities-and-principals-adjusting-profits
+-
